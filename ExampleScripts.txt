@@ -1,0 +1,23 @@
+#-nA -r /var/tmp/wlan.pcap 'tcp or udp' | cut -f 22- -d " " | less
+#cut fields 22-the end of line that are tcp or udp protocol, and include their payloads. 
+#now, look only for outgoing HTTP traffic from the phone's IP address. 
+
+#display all the packets coming out from the phone, tcp or udp protocol
+tcpdump -nA -r /var/tmp/wlan.pcap '((tcp or udp) and (src host 192.168.1.102))' | cut -f 22- -d " " | less
+
+tcpdump -nA -r /var/tmp/wlan.pcap '((tcp or udp) and (src host 192.168.1.102))' | cut -f 22- -d " " | grep MAC | less
+
+#display all the User profile mentions
+tcpdump -nA -r /var/tmp/wlan.pcap 'tcp or udp' | grep User | less
+
+#display all the http traffic, that is, traffic headed to port 80
+tcpdump -Ann -r /var/tmp/wlan.pcap 'dst port 80' | head -15
+
+# display all the http traffic (destination on port 80), but remove all the GET and HEAD requests, leaving only POSTs
+tcpdump -Ann -r /var/tmp/wlan.pcap 'dst port 80' | grep 'HTTP' | grep -Ev '(GET|HEAD)' | less
+
+#display all http traffic (port 80), and give 5 lines of context around the search key HTTP
+tcpdump -Ann -r /var/tmp/wlan.pcap 'port 80' | grep -c --context 5 'HTTP' 
+
+# capture tcpdump traffic on mon0, disable ip name resolution, enable full packet (including payload) capture
+sudo tcpdump -nXs 65535 -i mon0 -w /var/tmp/gmail_1.pcap
