@@ -25,3 +25,7 @@ done
 # done
 
 exit 0
+
+
+
+# BSSID:f8:d1:11:f6:f4:a6 SA:a0:0b:ba:e7:f5:d9 DA:f8:d1:11:f6:f4:a6

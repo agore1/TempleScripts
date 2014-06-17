@@ -13,7 +13,7 @@ tcpdump -nA -r /var/tmp/wlan.pcap 'tcp or udp' | grep User | less
 #display all the http traffic, that is, traffic headed to port 80
 tcpdump -Ann -r /var/tmp/wlan.pcap 'dst port 80' | head -15
 
-# display all the http traffic (destination on port 80), but remove all the GET and HEAD requests, leaving only POSTs
+# display all the http traffic (destination on port 80), but remove all the GET and HEAD requests, leaving only POSTs 
 tcpdump -Ann -r /var/tmp/wlan.pcap 'dst port 80' | grep 'HTTP' | grep -Ev '(GET|HEAD)' | less
 
 #display all http traffic (port 80), and give 5 lines of context around the search key HTTP
@@ -21,3 +21,9 @@ tcpdump -Ann -r /var/tmp/wlan.pcap 'port 80' | grep -c --context 5 'HTTP'
 
 # capture tcpdump traffic on mon0, disable ip name resolution, enable full packet (including payload) capture
 sudo tcpdump -nXs 65535 -i mon0 -w /var/tmp/gmail_1.pcap
+
+#List all the source IP addresses, and how many packets they sent, and sort them in descending order
+tcpdump -nn -r '/home/austin/Downloads/Temple Tools/pcap files/youtube_1.pcap' 'tcp or udp' | cut -f 22- -d " " | cut -f 1-4 -d "." | sort | uniq -c | sort -nr | head
+
+#List all the MAC addresses, both sources and destinations, on the network. Prints BSSID, SA, DA; Not necessarily in the same order all the time 
+tcpdump -enn -r /home/austin/Downloads/Temple\ Tools/pcap\ files/youtube_1.pcap 'tcp or udp' | cut -f 21-23 -d " " | less
