@@ -3,6 +3,7 @@ __author__ = 'austin'
 # This script lists all the destination IPs that are requested by each src IP
 import pyshark
 import csv
+import json
 
 capture = pyshark.FileCapture('/home/austin/Downloads/Temple Tools/pcap files/youtube_1.pcap', display_filter='tcp or udp')
 
@@ -33,8 +34,11 @@ for packet in capture:
 
 print "The number of errors was: ", errors
 # pprint(sorted_src_list)
-result_file = open("Results/visited_ips_results.csv", "wb")
-writer = csv.writer(result_file)
-for key, value in src_dict.items():
-    writer.writerow([key, value])
-result_file.close()
+# result_file = open("Results/visited_ips_results.csv", "wb")
+# writer = csv.writer(result_file)
+# for key, value in src_dict.items():
+#     writer.writerow([key, value])
+# result_file.close()
+
+with open("Results/visited_ips_results.csv", "wb") as result_file:
+    json.dump(src_dict, result_file)
