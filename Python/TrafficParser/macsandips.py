@@ -41,7 +41,7 @@ print "The number of errors was: ", errors
 sorted_src_list = sorted(src_dict.iteritems(), key=operator.itemgetter(1), reverse=True)
 print sorted_src_list
 
-result_file = open("macs_and_ips_results.csv", "w")
+result_file = open("Results/macs_and_ips_results.csv", "w")
 w = csv.writer(result_file)
 w.writerows(sorted_src_list)
 result_file.close()

@@ -43,7 +43,7 @@ sorted_dst_dict = sorted(dst_dict.iteritems(), key=operator.itemgetter(1), rever
 sorted_src_dict = sorted(src_dict.iteritems(), key=operator.itemgetter(1), reverse=True)
 # pprint(sorted_src_dict)
 
-file = open("top_ips_results.csv", "w")
+file = open("Results/top_ips_results.csv", "w")
 w = csv.writer(file)
 w.writerows(sorted_src_dict)
 file.close()
