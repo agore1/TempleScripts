@@ -5,7 +5,7 @@ __author__ = 'austin'
 import pyshark
 import operator
 import csv
-
+import json
 capture = pyshark.FileCapture('/home/austin/Downloads/Temple Tools/pcap files/youtube_1.pcap', display_filter='tcp or udp')
 
 errors = 0
@@ -41,7 +41,11 @@ print "The number of errors was: ", errors
 sorted_src_list = sorted(src_dict.iteritems(), key=operator.itemgetter(1), reverse=True)
 print sorted_src_list
 
-result_file = open("Results/macs_and_ips_results.csv", "w")
-w = csv.writer(result_file)
-w.writerows(sorted_src_list)
-result_file.close()
+# result_file = open("Results/macs_and_ips_results.csv", "w")
+# w = csv.writer(result_file)
+# w.writerows(sorted_src_list)
+# result_file.close()
+
+with open("Results/macs_and_ips_results.txt", "wb") as result_file:
+    json.dump(src_dict, result_file)
+

@@ -40,5 +40,5 @@ print "The number of errors was: ", errors
 #     writer.writerow([key, value])
 # result_file.close()
 
-with open("Results/visited_ips_results.csv", "wb") as result_file:
+with open("Results/visited_ips_results.txt", "wb") as result_file:
     json.dump(src_dict, result_file)

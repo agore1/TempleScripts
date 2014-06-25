@@ -16,21 +16,22 @@ for packet in capture:
     #If there are 5 or more layers, then we know we have a packet with an IP layer for getting ip addresses
     if len(packet.layers) >= 5:
         try:
-            user_agent = packet.http.user_agent
-            src_ip = packet.ip.src
-            http_packets += 1
+            print packet.tcp
+            # user_agent = packet.http.user_agent
+            # src_ip = packet.ip.src
+            # http_packets += 1
         except AttributeError:
             errors += 1
             continue    # If looking up the src ip failed, don't complete the rest of this for iteration
 
-        if src_ip in src_dict:
-            if user_agent in src_dict[src_ip]:
-                pass
-            else:
-                src_dict[src_ip].append(user_agent)
-        else:
-            src_dict[src_ip] = []
-            src_dict[src_ip].append(user_agent)
+        # if src_ip in src_dict:
+        #     if user_agent in src_dict[src_ip]:
+        #         pass
+        #     else:
+        #         src_dict[src_ip].append(user_agent)
+        # else:
+        #     src_dict[src_ip] = []
+        #     src_dict[src_ip].append(user_agent)
 
 print "The number of errors was: ", errors, " and the number of http packets was: ", http_packets
 

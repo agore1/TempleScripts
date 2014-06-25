@@ -3,9 +3,8 @@ __author__ = 'austin'
 # This script searches for all the IP source addresses and returns the number of packets originating from each
 
 import pyshark
-# from pprint import pprint
 import operator
-import csv
+import json
 
 capture = pyshark.FileCapture('/home/austin/Downloads/Temple Tools/pcap files/wlan.pcap', display_filter='tcp or udp')
 
@@ -37,22 +36,18 @@ for packet in capture:
 
 print "The number of errors was: ", errors
 #Save the sorted results of the ip search to a file
-sorted_dst_dict = sorted(dst_dict.iteritems(), key=operator.itemgetter(1), reverse=True)
+# sorted_dst_dict = sorted(dst_dict.iteritems(), key=operator.itemgetter(1), reverse=True)
 # pprint(sorted_dst_dict)
 # print sorted_dst_dict
-sorted_src_dict = sorted(src_dict.iteritems(), key=operator.itemgetter(1), reverse=True)
+# sorted_src_dict = sorted(src_dict.iteritems(), key=operator.itemgetter(1), reverse=True)
 # pprint(sorted_src_dict)
 
-file = open("Results/top_ips_results.csv", "w")
-w = csv.writer(file)
-w.writerows(sorted_src_dict)
-file.close()
-
-# capture = pyshark.FileCapture('/home/austin/Downloads/Temple Tools/pcap files/wlan.pcap', ['frame.number', 'ip.version', 'tcp.seq', 'udp.dstport', 'frame.len'], 'ip.version eq 4')
-# capture = list(capture)
-# print "The length of the file is", len(capture), "lines."
+# file = open("Results/top_ips_results.csv", "w")
+# w = csv.writer(file)
+# w.writerows(sorted_src_dict)
+# file.close()
 
 # print dir(capture[0])   # print all available methods and fields
-# pprint(vars(capture[0]))    # print the variable values
-# print capture[0].layers
-# print type(capture[0].layers[0].layer_name)  # print the layer name
+
+with open("Results/top_ips_results.txt", "wb") as result_file:
+    json.dump(src_dict, result_file)
