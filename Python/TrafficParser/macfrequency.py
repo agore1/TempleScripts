@@ -6,40 +6,35 @@ import operator
 import csv
 import json
 
-capture = pyshark.FileCapture('/home/austin/Downloads/Temple Tools/pcap files/youtube_1.pcap', display_filter='tcp or udp')
+def mac_frequency(filename):
+    capture = pyshark.FileCapture('/home/austin/Downloads/Temple Tools/pcap files/' + filename, display_filter='tcp or udp')
 
-errors = 0
-src_dict = {}
+    errors = 0
+    src_dict = {}
 
-# print vars(capture[0].wlan)
-# print "The addr is ", capture[0].wlan.addr
-# print "The da is ", capture[0].wlan.da
-# print "The sa is ", capture[0].wlan.sa
-print "The bssid is ", capture[0].wlan.bssid
+    # print vars(capture[0].wlan)
+    # print "The addr is ", capture[0].wlan.addr
+    # print "The da is ", capture[0].wlan.da
+    # print "The sa is ", capture[0].wlan.sa
 
 
-#For every packet, print out which layers are available. Use this to test if the tcpdump filter is working.
-for packet in capture:
-    #If there are 4 or more layers, then we know we have a packet with an IP layer for getting ip addresses
-    if len(packet.layers) >= 4:
-        try:
-            source_address = packet.wlan.sa
-            if source_address in src_dict:
-                src_dict[source_address] += 1
-            else:
-                src_dict[source_address] = 1
+    #For every packet, print out which layers are available. Use this to test if the tcpdump filter is working.
+    for packet in capture:
+        #If there are 4 or more layers, then we know we have a packet with an IP layer for getting ip addresses
+        if len(packet.layers) >= 4:
+            try:
+                source_address = packet.wlan.sa
+                if source_address in src_dict:
+                    src_dict[source_address] += 1
+                else:
+                    src_dict[source_address] = 1
 
-        except AttributeError:
-            errors += 1
+            except AttributeError:
+                errors += 1
 
-print "The number of errors was: ", errors
+    print "The number of errors was: ", errors
 
-sorted_src_list = sorted(src_dict.iteritems(), key=operator.itemgetter(1), reverse=True)
+    # sorted_src_list = sorted(src_dict.iteritems(), key=operator.itemgetter(1), reverse=True)
 
-# result_file = open("Results/mac_frequency_results.csv", "w")
-# w = csv.writer(file)
-# w.writerows(sorted_src_list)
-# result_file.close()
-
-with open("Results/mac_frequency_results.txt", "wb") as result_file:
-    json.dump(src_dict, result_file)
+    with open("Results/mac_frequency_results.txt", "wb") as result_file:
+        json.dump(src_dict, result_file)

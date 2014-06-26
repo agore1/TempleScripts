@@ -1,0 +1,22 @@
+Device1: MAC:74:ea:3a:7e:83:c2: IP Address: 192.168.1.101: Packets Sent: 1
+            IP visited: 192.168.1.1
+Device2: MAC:a0:0b:ba:e7:f5:d9: IP Address: 192.168.1.100: Packets Sent: 1760
+            IP visited: 74.125.226.26
+            IP visited: 74.125.226.2
+            IP visited: 74.125.226.14
+            IP visited: 192.168.1.1
+            IP visited: 74.125.226.0
+            IP visited: 239.255.255.250
+            IP visited: 173.194.33.56
+            IP visited: 74.125.228.17
+            IP visited: 74.125.22.95
+            IP visited: 74.125.226.7
+            IP visited: 74.125.226.4
+            IP visited: 74.125.226.5
+            IP visited: 74.125.226.1
+            IP visited: 74.125.226.11
+            IP visited: 74.125.226.25
+            IP visited: 74.125.172.242
+            IP visited: 74.125.228.7
+            IP visited: 74.125.226.28
+            IP visited: 74.125.174.38
