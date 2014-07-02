@@ -7,7 +7,7 @@ from pprint import pprint
 import json
 
 def useragents(filename):
-    capture = pyshark.FileCapture('/home/austin/Downloads/Temple Tools/pcap files/' + filename, display_filter='tcp or udp')
+    capture = pyshark.FileCapture(filename, display_filter='tcp or udp')
 
     errors = 0
     http_packets = 0

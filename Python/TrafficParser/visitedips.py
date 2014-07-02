@@ -7,7 +7,7 @@ import json
 
 
 def visited_ips(filename):
-    capture = pyshark.FileCapture('/home/austin/Downloads/Temple Tools/pcap files/' + filename, display_filter='tcp or udp')
+    capture = pyshark.FileCapture(filename, display_filter='tcp or udp')
 
     errors = 0
     src_dict = {}

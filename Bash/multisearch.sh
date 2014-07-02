@@ -4,6 +4,7 @@
 #	whose appearance in the pcap file would be a false positive for actually being leaked over the network. 
 
 FILENAME=$1
+IPADDRESS="192.168.1.100"
 #imei for galaxy nexus is 351746051667742
 #serial number for galaxy nexus is 0149C22118018016
 #MAC address for the galaxy nexus is a0:0b:ba:e7:f5:d9
@@ -12,7 +13,7 @@ KEYWORDS=( mac imei user-agent "templetest79@gmail.com" "a0:0b:ba:e7:f5:d9" 3517
 for i in "${KEYWORDS[@]}"
 do
 	#search the pcap file for the keyword, and list it's occurrences
-	count=`tcpdump -Ann -r $FILENAME '(src 192.168.1.100 and (tcp or udp))' | grep -iEc "$i"`  
+	count=`tcpdump -Ann -r $FILENAME "(src $IPADDRESS and (tcp or udp))" | grep -iEc "$i"`  
 	echo $i "appeared: " $count " times."
 	# RESULTS[$i]=$count
 done

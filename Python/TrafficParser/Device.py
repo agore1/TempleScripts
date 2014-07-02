@@ -13,8 +13,10 @@ class Device(object):
         self.ips_visited = ips_visited
 
     def __str__(self):
-        first_line = "MAC:" + self.mac_address + ": IP Address: " + self.ip_address + ": Packets Sent: " + \
+        first_line = "MAC=" + self.mac_address + " IP Address= " + self.ip_address + " Packets Sent= " + \
                      str(self.packets_sent)
+        if self.user_agents:
+            first_line += " \n            User Agents= " + str(self.user_agents)
         second_line = ""
         if self.ips_visited:
             for ip in self.ips_visited:

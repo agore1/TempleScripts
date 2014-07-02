@@ -1,22 +1,43 @@
-Device1: MAC:74:ea:3a:7e:83:c2: IP Address: 192.168.1.101: Packets Sent: 1
+Device1: MAC=74:ea:3a:7e:83:c2 IP Address= 192.168.1.101 Packets Sent= 19
+            IP visited: 192.168.1.255
             IP visited: 192.168.1.1
-Device2: MAC:a0:0b:ba:e7:f5:d9: IP Address: 192.168.1.100: Packets Sent: 1760
-            IP visited: 74.125.226.26
-            IP visited: 74.125.226.2
-            IP visited: 74.125.226.14
+            IP visited: 224.0.0.251
+Device2: MAC=a0:0b:ba:e7:f5:d9 IP Address= 192.168.1.100 Packets Sent= 4659 
+            User Agents= [u'Mozilla/5.0 (Linux; U; Android 4.3; en-us; Galaxy Nexus Build/JWR66Y) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Mobile Safari/534.30', u'Mozilla/5.0 (Linux; Android 4.3; Galaxy Nexus Build/JWR66Y) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/35.0.1916.141 Mobile Safari/537.36']
+            IP visited: 54.208.96.82
+            IP visited: 54.230.49.62
             IP visited: 192.168.1.1
-            IP visited: 74.125.226.0
-            IP visited: 239.255.255.250
-            IP visited: 173.194.33.56
-            IP visited: 74.125.228.17
-            IP visited: 74.125.22.95
-            IP visited: 74.125.226.7
-            IP visited: 74.125.226.4
-            IP visited: 74.125.226.5
-            IP visited: 74.125.226.1
-            IP visited: 74.125.226.11
-            IP visited: 74.125.226.25
-            IP visited: 74.125.172.242
-            IP visited: 74.125.228.7
-            IP visited: 74.125.226.28
-            IP visited: 74.125.174.38
+            IP visited: 54.230.51.88
+            IP visited: 173.194.43.2
+            IP visited: 157.166.249.11
+            IP visited: 64.233.171.95
+            IP visited: 54.200.116.100
+            IP visited: 54.200.134.186
+            IP visited: 173.194.43.28
+            IP visited: 8.15.229.36
+            IP visited: 66.198.8.105
+            IP visited: 8.247.97.162
+            IP visited: 66.198.8.88
+            IP visited: 139.104.188.6
+            IP visited: 74.125.228.115
+            IP visited: 173.194.43.13
+            IP visited: 68.71.222.54
+            IP visited: 216.52.203.23
+            IP visited: 23.220.52.128
+            IP visited: 173.194.43.26
+            IP visited: 173.194.43.25
+            IP visited: 198.105.199.201
+            IP visited: 208.111.128.6
+            IP visited: 208.185.55.81
+            IP visited: 23.220.33.105
+            IP visited: 31.13.69.176
+            IP visited: 198.105.199.39
+            IP visited: 173.194.43.0
+            IP visited: 93.184.216.180
+            IP visited: 208.185.55.65
+            IP visited: 4.26.251.126
+            IP visited: 173.194.43.15
+            IP visited: 66.235.138.195
+            IP visited: 23.45.45.14
+            IP visited: 138.108.7.20
+            IP visited: 208.185.55.51
