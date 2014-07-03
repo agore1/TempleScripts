@@ -13,6 +13,10 @@ if len(sys.argv) == 2:
 else:
     print "Please enter one argument: a file name."
     sys.exit()
+
+#A list of keywords to search the packets for
+keywords = ["imei", "mac", "android"]
+
 #Run scripts which generate output files.
 print "Running macs_and_ips: "
 macs_and_ips(filename)
@@ -23,7 +27,7 @@ useragents(filename)
 print"Running visited_ips"
 visited_ips(filename)
 print"Assembling final results"
-assemble_results()
+assemble_results(filename)
 
 
 

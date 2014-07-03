@@ -1,43 +1,104 @@
-Device1: MAC=74:ea:3a:7e:83:c2 IP Address= 192.168.1.101 Packets Sent= 19
-            IP visited: 192.168.1.255
-            IP visited: 192.168.1.1
-            IP visited: 224.0.0.251
-Device2: MAC=a0:0b:ba:e7:f5:d9 IP Address= 192.168.1.100 Packets Sent= 4659 
-            User Agents= [u'Mozilla/5.0 (Linux; U; Android 4.3; en-us; Galaxy Nexus Build/JWR66Y) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Mobile Safari/534.30', u'Mozilla/5.0 (Linux; Android 4.3; Galaxy Nexus Build/JWR66Y) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/35.0.1916.141 Mobile Safari/537.36']
-            IP visited: 54.208.96.82
-            IP visited: 54.230.49.62
-            IP visited: 192.168.1.1
-            IP visited: 54.230.51.88
-            IP visited: 173.194.43.2
-            IP visited: 157.166.249.11
-            IP visited: 64.233.171.95
-            IP visited: 54.200.116.100
-            IP visited: 54.200.134.186
-            IP visited: 173.194.43.28
-            IP visited: 8.15.229.36
-            IP visited: 66.198.8.105
-            IP visited: 8.247.97.162
-            IP visited: 66.198.8.88
-            IP visited: 139.104.188.6
-            IP visited: 74.125.228.115
-            IP visited: 173.194.43.13
-            IP visited: 68.71.222.54
-            IP visited: 216.52.203.23
-            IP visited: 23.220.52.128
-            IP visited: 173.194.43.26
-            IP visited: 173.194.43.25
-            IP visited: 198.105.199.201
-            IP visited: 208.111.128.6
-            IP visited: 208.185.55.81
-            IP visited: 23.220.33.105
-            IP visited: 31.13.69.176
-            IP visited: 198.105.199.39
-            IP visited: 173.194.43.0
-            IP visited: 93.184.216.180
-            IP visited: 208.185.55.65
-            IP visited: 4.26.251.126
-            IP visited: 173.194.43.15
-            IP visited: 66.235.138.195
-            IP visited: 23.45.45.14
-            IP visited: 138.108.7.20
-            IP visited: 208.185.55.51
+Device1: MAC=a0:0b:ba:e7:f5:d9 IP Address= 192.168.1.100 Packets Sent= 1894
+        User Agents= [u'Mozilla/5.0 (Linux; U; Android 4.3; en-us; Galaxy Nexus Build/JWR66Y) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Mobile Safari/534.30 Google-HTTP-Java-Client/1.16.0-rc (gzip)', u'Mozilla/5.0 (Linux; U; Android 4.3; en-us; Galaxy Nexus Build/JWR66Y) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Mobile Safari/534.30', u'Apache-HttpClient/UNAVAILABLE (java 1.4)', u'unused/0 (maguro JWR66Y); gzip']
+        The following keywords were found: 
+            imei:
+            ..Y.@1..GET /m/aclk?accid=agltb3B1Yi1pbmNyEAsSB0FjY291bnQY-aOuEgw&c=559da743536442fea2caab84fa4a501e&req=35e50f58012d11e48b66002590d3a7c9&cpid=92eeff5b0e494857aeecaf3c1f816b34&hourly=0&reqt=1404225444.0&cid=559da743536442fea2caab84fa4a501e&click_hourly=0&real_appid=6912927dc7c34116a1b0c2ed25d6babe&daily=1&agid=770c878a020146b8ab32a9419b59a1fb&click_daily=0&appid=&id=3ee536462fd649aba0abd161bfadf256&udid=sha:4c3b5e5a03f20860dad018da5a87aa3b9c5197f4&ckv=2&ck=130A6&cppck=77579&r=http%3A%2F%2Fwww.mmnetwork.mobi%2Fc.php%3Fsig%3D0b26e4d5372ad461c2b89593ba635327%26adid%3D42323%26caid%3D7%26cid%3D6257%26advid%3D1740%26d%3D921981601667376284785626%26e%3Dbae%26f%3Dm%26tl%3Dal1B45h4yWoF534G7td4qUJ16092L5520x2j832f%26unique_key%3D4c3b5e5a03f20860dad018da5a87aa3b9c5197f4%26lat%3D%26long%3D%26zip%3D%26banner%3D320_50%26sd%3D1%26fcp%3D0%26ae%3D-1%26gr%3D0%26imei%3D%26idfa%3D%26ttype%3D2%26cp%3D%26google_ad_id%3D%26crid%3D29662 HTTP/1.1
+            ........E..I.l@.@.OR...d.+l....P.....x	bP.<..l..GET /c.php?sig=0b26e4d5372ad461c2b89593ba635327&adid=42323&caid=7&cid=6257&advid=1740&d=921981601667376284785626&e=bae&f=m&tl=al1B45h4yWoF534G7td4qUJ16092L5520x2j832f&unique_key=4c3b5e5a03f20860dad018da5a87aa3b9c5197f4&lat=&long=&zip=&banner=320_50&sd=1&fcp=0&ae=-1&gr=0&imei=&idfa=&ttype=2&cp=&google_ad_id=&crid=29662 HTTP/1.1
+            ........E.....@.@......d.+.&...P..[.Ub..P.9..0..GET /?a=2lzuak0&b=5oc6dk0&s1=38337005&s2=320x50+COC+4&click=290165597505914625659116&unique_key=4c3b5e5a03f20860dad018da5a87aa3b9c5197f4&idfa=&md5_idfa=&sha1_idfa=&imei=&md5_imei=&sha1_imei=&google_ad_id=&zip=&lat=&long=&mmnetwork_mobi=1&siteid=38337005&advid=1740&intacc=1 HTTP/1.1
+            mac:
+            android:
+            ..QN...vPOST /api/content/config?appid=android&sig=24250ae23b76e2991bbb140b5567477d HTTP/1.1
+            User-Agent: Mozilla/5.0 (Linux; U; Android 4.3; en-us; Galaxy Nexus Build/JWR66Y) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Mobile Safari/534.30 Google-HTTP-Java-Client/1.16.0-rc (gzip)
+            ..QN...vPOST /api/content/config?appid=android&sig=24250ae23b76e2991bbb140b5567477d HTTP/1.1
+            User-Agent: Mozilla/5.0 (Linux; U; Android 4.3; en-us; Galaxy Nexus Build/JWR66Y) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Mobile Safari/534.30 Google-HTTP-Java-Client/1.16.0-rc (gzip)
+            ..Q.....POST /api/content/v1/appsync?fields%5B53%5D=id,ctype,title,description,category,downloads,stars,size,share_url,creator,package_name,version_name,featured_image:720x0,screenshots:720x1184&fields%5B54%5D=id,ctype,title,description,category,downloads,stars,size,share_url,creator,package_name,version_name,featured_image:720x0,screenshots:720x1184,icon:117x117&appid=android&sig=76adef8733032de8c6c0baf8e318765a HTTP/1.1
+            User-Agent: Mozilla/5.0 (Linux; U; Android 4.3; en-us; Galaxy Nexus Build/JWR66Y) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Mobile Safari/534.30 Google-HTTP-Java-Client/1.16.0-rc (gzip)
+            pkgs=com.weather.Weather%3A402110051%2Ccom.cnn.mobile.android.phone%3A214%2Ccom.e8tracks%3A69%2Cnet.zedge.android%3A40301%2Ccom.pandora.android%3A5309%2Ccom.rovio.angrybirds%3A4100%2Corg.mozilla.firefox%3A2014060517%2Ccom.amazon.mShop.android%3A210001%2Ccom.UCMobile.intl%3A121%2Ccom.ebay.mobile%3A50%2Ccom.android.chrome%3A1916141..f.
+            ..Q.....POST /api/content/v1/appsync?fields%5B53%5D=id,ctype,title,description,category,downloads,stars,size,share_url,creator,package_name,version_name,featured_image:720x0,screenshots:720x1184&fields%5B54%5D=id,ctype,title,description,category,downloads,stars,size,share_url,creator,package_name,version_name,featured_image:720x0,screenshots:720x1184,icon:117x117&appid=android&sig=76adef8733032de8c6c0baf8e318765a HTTP/1.1
+            User-Agent: Mozilla/5.0 (Linux; U; Android 4.3; en-us; Galaxy Nexus Build/JWR66Y) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Mobile Safari/534.30 Google-HTTP-Java-Client/1.16.0-rc (gzip)
+            pkgs=com.weather.Weather%3A402110051%2Ccom.cnn.mobile.android.phone%3A214%2Ccom.e8tracks%3A69%2Cnet.zedge.android%3A40301%2Ccom.pandora.android%3A5309%2Ccom.rovio.angrybirds%3A4100%2Corg.mozilla.firefox%3A2014060517%2Ccom.amazon.mShop.android%3A210001%2Ccom.UCMobile.intl%3A121%2Ccom.ebay.mobile%3A50%2Ccom.android.chrome%3A1916141;...
+            ..Q.....POST /api/content/v1/appsync?fields%5B53%5D=id,ctype,title,description,category,downloads,stars,size,share_url,creator,package_name,version_name,featured_image:720x0,screenshots:720x1184&fields%5B54%5D=id,ctype,title,description,category,downloads,stars,size,share_url,creator,package_name,version_name,featured_image:720x0,screenshots:720x1184,icon:117x117&appid=android&sig=76adef8733032de8c6c0baf8e318765a HTTP/1.1
+            User-Agent: Mozilla/5.0 (Linux; U; Android 4.3; en-us; Galaxy Nexus Build/JWR66Y) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Mobile Safari/534.30 Google-HTTP-Java-Client/1.16.0-rc (gzip)
+            pkgs=com.weather.Weather%3A402110051%2Ccom.cnn.mobile.android.phone%3A214%2Ccom.e8tracks%3A69%2Cnet.zedge.android%3A40301%2Ccom.pandora.android%3A5309%2Ccom.rovio.angrybirds%3A4100%2Corg.mozilla.firefox%3A2014060517%2Ccom.amazon.mShop.android%3A210001%2Ccom.UCMobile.intl%3A121%2Ccom.ebay.mobile%3A50%2Ccom.android.chrome%3A1916141hN..
+            ..Q.....POST /api/content/v1/appsync?fields%5B53%5D=id,ctype,title,description,category,downloads,stars,size,share_url,creator,package_name,version_name,featured_image:720x0,screenshots:720x1184&fields%5B54%5D=id,ctype,title,description,category,downloads,stars,size,share_url,creator,package_name,version_name,featured_image:720x0,screenshots:720x1184,icon:117x117&appid=android&sig=76adef8733032de8c6c0baf8e318765a HTTP/1.1
+            User-Agent: Mozilla/5.0 (Linux; U; Android 4.3; en-us; Galaxy Nexus Build/JWR66Y) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Mobile Safari/534.30 Google-HTTP-Java-Client/1.16.0-rc (gzip)
+            pkgs=com.weather.Weather%3A402110051%2Ccom.cnn.mobile.android.phone%3A214%2Ccom.e8tracks%3A69%2Cnet.zedge.android%3A40301%2Ccom.pandora.android%3A5309%2Ccom.rovio.angrybirds%3A4100%2Corg.mozilla.firefox%3A2014060517%2Ccom.amazon.mShop.android%3A210001%2Ccom.UCMobile.intl%3A121%2Ccom.ebay.mobile%3A50%2Ccom.android.chrome%3A1916141hN..
+            ..R:...PPOST /api/content/v1/appsync?fields%5B53%5D=id,ctype,title,description,category,downloads,stars,size,share_url,creator,package_name,version_name,featured_image:720x0,screenshots:720x1184&fields%5B54%5D=id,ctype,title,description,category,downloads,stars,size,share_url,creator,package_name,version_name,featured_image:720x0,screenshots:720x1184,icon:117x117&appid=android&sig=76adef8733032de8c6c0baf8e318765a HTTP/1.1
+            User-Agent: Mozilla/5.0 (Linux; U; Android 4.3; en-us; Galaxy Nexus Build/JWR66Y) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Mobile Safari/534.30 Google-HTTP-Java-Client/1.16.0-rc (gzip)
+            pkgs=com.weather.Weather%3A402110051%2Ccom.cnn.mobile.android.phone%3A214%2Ccom.e8tracks%3A69%2Cnet.zedge.android%3A40301%2Ccom.pandora.android%3A5309%2Ccom.rovio.angrybirds%3A4100%2Corg.mozilla.firefox%3A2014060517%2Ccom.amazon.mShop.android%3A210001%2Ccom.UCMobile.intl%3A121%2Ccom.ebay.mobile%3A50%2Ccom.android.chrome%3A1916141..O@
+            ..R.@1..GET /m/ad?v=6&id=3ee536462fd649aba0abd161bfadf256&nv=1.17.3.1&dn=samsung%2CGalaxy%20Nexus%2Cyakju&udid=sha%3A4c3b5e5a03f20860dad018da5a87aa3b9c5197f4&z=-0400&o=p&sc_a=2.0&mr=1&mcc=310&mnc=410&iso=us&ct=2&av=4.3.1&android_perms_ext_storage=1 HTTP/1.1
+            User-Agent: Mozilla/5.0 (Linux; U; Android 4.3; en-us; Galaxy Nexus Build/JWR66Y) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Mobile Safari/534.30
+            ..R.....GET /api/content/v1/browse/wallpaper/featured?wp_subtype=43&country=201&content_segment=default&family_filter=1&_v=4.3.1&fields=id,ctype,title,description,category,downloads,stars,size,share_url,tags,ctime,author(id,name,gender,age,country,profile_url,photo:medium,ctime),thumb:358x0,preview:0x1184,subtype&cursor&limit=50&appid=android&sig=48ce1262724102f66039a83f502a96ea HTTP/1.1
+            User-Agent: Mozilla/5.0 (Linux; U; Android 4.3; en-us; Galaxy Nexus Build/JWR66Y) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Mobile Safari/534.30 Google-HTTP-Java-Client/1.16.0-rc (gzip)
+            User-Agent: Mozilla/5.0 (Linux; U; Android 4.3; en-us; Galaxy Nexus Build/JWR66Y) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Mobile Safari/534.30 Google-HTTP-Java-Client/1.16.0-rc (gzip)
+            User-Agent: Mozilla/5.0 (Linux; U; Android 4.3; en-us; Galaxy Nexus Build/JWR66Y) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Mobile Safari/534.30 Google-HTTP-Java-Client/1.16.0-rc (gzip)
+            User-Agent: Mozilla/5.0 (Linux; U; Android 4.3; en-us; Galaxy Nexus Build/JWR66Y) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Mobile Safari/534.30 Google-HTTP-Java-Client/1.16.0-rc (gzip)
+            User-Agent: Mozilla/5.0 (Linux; U; Android 4.3; en-us; Galaxy Nexus Build/JWR66Y) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Mobile Safari/534.30 Google-HTTP-Java-Client/1.16.0-rc (gzip)
+            ..S+.9..GET /ad_request?NBA_DIV=Zedge_US_App_MPBTAG_320x50_ROS_Android&NBA_APPID=922DD5A0AD7A0131112322000A93D4E6&NBA_PUBID=111657&NBA_LOCATION_LAT=&NBA_LOCATION_LNG=&NBA_KV=device_id_sha-1_key=4c3b5e5a03f20860dad018da5a87aa3b9c5197f4&_v=2_0_0&id=60109382844530050 HTTP/1.1
+            X-Requested-With: net.zedge.android
+            User-Agent: Mozilla/5.0 (Linux; U; Android 4.3; en-us; Galaxy Nexus Build/JWR66Y) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Mobile Safari/534.30
+            X-Requested-With: net.zedge.android
+            User-Agent: Mozilla/5.0 (Linux; U; Android 4.3; en-us; Galaxy Nexus Build/JWR66Y) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Mobile Safari/534.30
+            ........E.....@.@.h"...dE....-.P.m..%..KP.......GET /a/11616/35532/147874-43.js?&cb=0.5525708936620504&tk_st=1&rp_s=c&p_app.privacypolicy=1&p_app.name=ZEDGE%E2%84%A2%20Ringtones%20%26%20Wallpapers&p_app.domain=https%3A%2F%2Fplay.google.com%2Fstore%2Fapps%2Fdetails%3Fid%3Dnet.zedge.android&p_device.appstoreid=net.zedge.android&p_device.os=Android&p_device.connectiontype=3&p_device.osv=4.3&p_device.js=1&p_device.storerating=4.50&p_device.carrier=Temple%20University&p_device.make=Google%20Inc.&p_device.dpidsha1=4c3b5e5a03f20860dad018da5a87aa3b9c5197f4&p_exp=1&p_pos=atf&p_geo.consent=1&p_geo.type=2&p_screen_res=720x1280 HTTP/1.1
+            X-Requested-With: net.zedge.android
+            User-Agent: Mozilla/5.0 (Linux; U; Android 4.3; en-us; Galaxy Nexus Build/JWR66Y) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Mobile Safari/534.30
+            ..Sa@1..GET /m/ad?v=6&id=3ee536462fd649aba0abd161bfadf256&nv=1.17.3.1&dn=samsung%2CGalaxy%20Nexus%2Cyakju&udid=sha%3A4c3b5e5a03f20860dad018da5a87aa3b9c5197f4&z=-0400&o=p&sc_a=2.0&mr=1&mcc=310&mnc=410&iso=us&ct=2&av=4.3.1&android_perms_ext_storage=1&request_id=35e50f58012d11e48b66002590d3a7c9&exclude=e2688411106f4bb7a6f4936eddd0808a HTTP/1.1
+            User-Agent: Mozilla/5.0 (Linux; U; Android 4.3; en-us; Galaxy Nexus Build/JWR66Y) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Mobile Safari/534.30
+            ..S.....POST /api/content/config?appid=android&sig=ffd74c2a46e319544ac9717f2a9618ae HTTP/1.1
+            User-Agent: Mozilla/5.0 (Linux; U; Android 4.3; en-us; Galaxy Nexus Build/JWR66Y) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Mobile Safari/534.30 Google-HTTP-Java-Client/1.16.0-rc (gzip)
+            ..S.]...GET /getAd.php5?ar=manual&at=b&bl=2&cachedvideo=true&conn=wifi&country=US&density=2.0&dm=Galaxy+Nexus&do=portrait&dv=Android4.3&hpx=1184&hsht=50&hswd=320&language=en&loc=false&mcc=999&mic=true&mmdid=mmh_837674178B70FEBAD47F1354F573980B_4C3B5E5A03F20860DAD018DA5A87AA3B9C5197F4&mmisdk=5.1.0-13.08.12.a&mnc=410&olock=true&pip=FE80%253A%253AA00B%253ABAFF%253AFEE7%253AF5D9%252CFE80%253A%253AA20B%253ABAFF%253AFEE7%253AF5D9%252C192.168.1.100&pkid=net.zedge.android&pknm=Zedge&plugged=true&reqtype=getad&sdkapid=121162&sdkversion=5.1.0-13.08.12.a&sk=false&space=13244616704&ua=Dalvik%2F1.6.0+%28Linux%3B+U%3B+Android+4.3%3B+Galaxy+Nexus+Build%2FJWR66Y%29&video=true&wpx=720 HTTP/1.1
+            Host: androidsdk.ads.mp.mydas.mobi
+            ..S.]...GET /getAd.php5?ar=manual&at=b&bl=2&cachedvideo=true&conn=wifi&country=US&density=2.0&dm=Galaxy+Nexus&do=portrait&dv=Android4.3&hpx=1184&hsht=50&hswd=320&language=en&loc=false&mcc=999&mic=true&mmdid=mmh_837674178B70FEBAD47F1354F573980B_4C3B5E5A03F20860DAD018DA5A87AA3B9C5197F4&mmisdk=5.1.0-13.08.12.a&mnc=410&olock=true&pip=FE80%253A%253AA00B%253ABAFF%253AFEE7%253AF5D9%252CFE80%253A%253AA20B%253ABAFF%253AFEE7%253AF5D9%252C192.168.1.100&pkid=net.zedge.android&pknm=Zedge&plugged=true&reqtype=getad&sdkapid=121162&sdkversion=5.1.0-13.08.12.a&sk=false&space=13244616704&ua=Dalvik%2F1.6.0+%28Linux%3B+U%3B+Android+4.3%3B+Galaxy+Nexus+Build%2FJWR66Y%29&video=true&wpx=720 HTTP/1.1
+            Host: androidsdk.ads.mp.mydas.mobi
+            ..S.@1..GET /m/ad?v=6&id=3ee536462fd649aba0abd161bfadf256&nv=1.17.3.1&dn=samsung%2CGalaxy%20Nexus%2Cyakju&udid=sha%3A4c3b5e5a03f20860dad018da5a87aa3b9c5197f4&z=-0400&o=p&sc_a=2.0&mr=1&mcc=310&mnc=410&iso=us&ct=2&av=4.3.1&android_perms_ext_storage=1&request_id=35e50f58012d11e48b66002590d3a7c9&exclude=e2688411106f4bb7a6f4936eddd0808a&exclude=0d466ba651d7490c97fc60ab63f86244 HTTP/1.1
+            User-Agent: Mozilla/5.0 (Linux; U; Android 4.3; en-us; Galaxy Nexus Build/JWR66Y) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Mobile Safari/534.30
+            X-Requested-With: net.zedge.android
+            User-Agent: Mozilla/5.0 (Linux; U; Android 4.3; en-us; Galaxy Nexus Build/JWR66Y) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Mobile Safari/534.30
+            X-Requested-With: net.zedge.android
+            User-Agent: Mozilla/5.0 (Linux; U; Android 4.3; en-us; Galaxy Nexus Build/JWR66Y) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Mobile Safari/534.30
+            X-Requested-With: net.zedge.android
+            User-Agent: Mozilla/5.0 (Linux; U; Android 4.3; en-us; Galaxy Nexus Build/JWR66Y) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Mobile Safari/534.30
+            ........E....j@.@.N....d.+l....P.....x.9P.9.P...GET /s.php?sig=0b26e4d5372ad461c2b89593ba635327&adid=42323&caid=7&banner=320_50&cid=6257&advid=1740&e=bae&d=921981601667376284785626&f=m&ua=Mozilla%2F5.0+%28Linux%3B+U%3B+Android+4.3%3B+en-us%3B+Galaxy+Nexus+Build%2FJWR66Y%29+AppleWebKit%2F534.30+%28KHTML%2C+like+Gecko%29+Version%2F4.0+Mobile+Safari%2F534.30&up=2166382326&cr=PjsypSmCSxWfFUz7OwoR&unique_key=4c3b5e5a03f20860dad018da5a87aa3b9c5197f4&tl=OqaZ4fm41hEg524UF2G43rW1x0Mp55Y2809Pjb2c&sd=1&fcp=0&ae=-1&gr=0&idfa=&crid=29662&mp=&bt=html&state=PA&city=Philadelphia&n_imp=0&&htmlb& HTTP/1.1
+            X-Requested-With: net.zedge.android
+            User-Agent: Mozilla/5.0 (Linux; U; Android 4.3; en-us; Galaxy Nexus Build/JWR66Y) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Mobile Safari/534.30
+            X-Requested-With: net.zedge.android
+            User-Agent: Mozilla/5.0 (Linux; U; Android 4.3; en-us; Galaxy Nexus Build/JWR66Y) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Mobile Safari/534.30
+            X-Requested-With: net.zedge.android
+            User-Agent: Mozilla/5.0 (Linux; U; Android 4.3; en-us; Galaxy Nexus Build/JWR66Y) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Mobile Safari/534.30
+            ..V[...+POST /api/content/v1/log?e=r&appid=android&sig=bd2e6d6d98187f79b5baa3c4374384a6 HTTP/1.1
+            User-Agent: Mozilla/5.0 (Linux; U; Android 4.3; en-us; Galaxy Nexus Build/JWR66Y) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Mobile Safari/534.30 Google-HTTP-Java-Client/1.16.0-rc (gzip)
+            .@.......en.......1cd3921dab8e8c7...............net.zedge.android.......4.3.1.......market.
+            User-Agent: Mozilla/5.0 (Linux; U; Android 4.3; en-us; Galaxy Nexus Build/JWR66Y) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Mobile Safari/534.30 Google-HTTP-Java-Client/1.16.0-rc (gzip)
+            User-Agent: Mozilla/5.0 (Linux; U; Android 4.3; en-us; Galaxy Nexus Build/JWR66Y) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Mobile Safari/534.30
+            X-Requested-With: net.zedge.android
+            User-Agent: Mozilla/5.0 (Linux; U; Android 4.3; en-us; Galaxy Nexus Build/JWR66Y) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Mobile Safari/534.30
+            X-Requested-With: net.zedge.android
+            User-Agent: Mozilla/5.0 (Linux; U; Android 4.3; en-us; Galaxy Nexus Build/JWR66Y) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Mobile Safari/534.30
+            X-Requested-With: net.zedge.android
+            User-Agent: Mozilla/5.0 (Linux; U; Android 4.3; en-us; Galaxy Nexus Build/JWR66Y) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Mobile Safari/534.30
+            X-Requested-With: net.zedge.android
+            User-Agent: Mozilla/5.0 (Linux; U; Android 4.3; en-us; Galaxy Nexus Build/JWR66Y) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Mobile Safari/534.30
+            10:37:37.676489 1881652430598us tsft 2412 MHz 11g -47dB signal antenna 0 65.0 Mb/s MCS 7 20 MHz lon GI CF +QoS IP 192.168.1.100.63007 > 192.168.1.1.53: 59447+ A? android.clients.google.com. (44)
+            ........E..HZ.@.@.\U...d.......5.4.B.7...........android.clients.google.com.....'N..
+            ..[&....GET /android/market_images/badges/topdev_list.png HTTP/1.1
+        The following IPs were visited:
+            IP: 75.126.194.98
+            IP: 192.168.1.1
+            IP: 216.52.203.23
+            IP: 162.217.102.126
+            IP: 54.235.107.101
+            IP: 23.206.144.143
+            IP: 69.25.24.23
+            IP: 216.157.12.18
+            IP: 204.94.155.114
+            IP: 208.43.242.205
+            IP: 208.43.108.184
+            IP: 72.21.81.253
+            IP: 208.43.231.38
+            IP: 54.219.159.34
+            IP: 173.194.43.5
+            IP: 173.194.43.10
+            IP: 173.194.43.11
+            IP: 173.194.43.31
+            IP: 173.194.43.1
+            IP: 173.194.43.12

@@ -1,0 +1,82 @@
+Device1: MAC=a0:0b:ba:e7:f5:d9 IP Address= 192.168.43.243 Packets Sent= 290
+        User Agents= [u'Mozilla/5.0 (Linux; Android 4.3; Galaxy Nexus Build/JWR66Y) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/35.0.1916.141 Mobile Safari/537.36', u'Dalvik/1.6.0 (Linux; U; Android 4.3; Galaxy Nexus Build/JWR66Y)']
+        The following keywords were found: 
+            imei:
+            mac:
+            ....2.xAGET /__utm.gif?utmwv=5.5.3&utms=2&utmn=1339853960&utmhn=mobile.theverge.com&utme=8(Login%20Status*3!Breakpoint*Input%20Type)9(Logged%20Out*3!xsmall*Touch)11(2*4!2)&utmcs=UTF-8&utmsr=360x592&utmvp=360x519&utmsc=32-bit&utmul=en-us&utmje=1&utmfl=-&utmdt=The%20Verge&utmhid=1678696141&utmr=-&utmp=%2F&utmht=1404329199323&utmac=UA-26533115-1&utmcc=__utma%3D249331355.189702537.1404329122.1404329122.1404329122.1%3B%2B__utmz%3D249331355.1404329122.1.1.utmcsr%3D(direct)%7Cutmccn%3D(direct)%7Cutmcmd%3D(none)%3B&utmu=qQAAAAAAAAAAAAAAAAAAAAB~ HTTP/1.1
+            android:
+            ........E..U....@.K~.........D.C.A.U.....e.b....................................................................................................................................................................................................................................c.Sc5..=........2...+.9...<.dhcpcd-5.5.6..android-1cd3921dab8e8c77	.!....3:;.
+            User-Agent: Mozilla/5.0 (Linux; Android 4.3; Galaxy Nexus Build/JWR66Y) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/35.0.1916.141 Mobile Safari/537.36
+            User-Agent: Mozilla/5.0 (Linux; Android 4.3; Galaxy Nexus Build/JWR66Y) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/35.0.1916.141 Mobile Safari/537.36
+            User-Agent: Mozilla/5.0 (Linux; Android 4.3; Galaxy Nexus Build/JWR66Y) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/35.0.1916.141 Mobile Safari/537.36
+            User-Agent: Mozilla/5.0 (Linux; Android 4.3; Galaxy Nexus Build/JWR66Y) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/35.0.1916.141 Mobile Safari/537.36
+            User-Agent: Mozilla/5.0 (Linux; Android 4.3; Galaxy Nexus Build/JWR66Y) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/35.0.1916.141 Mobile Safari/537.36
+            User-Agent: Mozilla/5.0 (Linux; Android 4.3; Galaxy Nexus Build/JWR66Y) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/35.0.1916.141 Mobile Safari/537.36
+            User-Agent: Mozilla/5.0 (Linux; Android 4.3; Galaxy Nexus Build/JWR66Y) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/35.0.1916.141 Mobile Safari/537.36
+            User-Agent: Mozilla/5.0 (Linux; Android 4.3; Galaxy Nexus Build/JWR66Y) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/35.0.1916.141 Mobile Safari/537.36
+            User-Agent: Mozilla/5.0 (Linux; Android 4.3; Galaxy Nexus Build/JWR66Y) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/35.0.1916.141 Mobile Safari/537.36
+            User-Agent: Mozilla/5.0 (Linux; Android 4.3; Galaxy Nexus Build/JWR66Y) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/35.0.1916.141 Mobile Safari/537.36
+            User-Agent: Mozilla/5.0 (Linux; Android 4.3; Galaxy Nexus Build/JWR66Y) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/35.0.1916.141 Mobile Safari/537.36
+            User-Agent: Mozilla/5.0 (Linux; Android 4.3; Galaxy Nexus Build/JWR66Y) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/35.0.1916.141 Mobile Safari/537.36
+            User-Agent: Mozilla/5.0 (Linux; Android 4.3; Galaxy Nexus Build/JWR66Y) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/35.0.1916.141 Mobile Safari/537.36
+            User-Agent: Dalvik/1.6.0 (Linux; U; Android 4.3; Galaxy Nexus Build/JWR66Y)
+            User-Agent: Mozilla/5.0 (Linux; Android 4.3; Galaxy Nexus Build/JWR66Y) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/35.0.1916.141 Mobile Safari/537.36
+            User-Agent: Mozilla/5.0 (Linux; Android 4.3; Galaxy Nexus Build/JWR66Y) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/35.0.1916.141 Mobile Safari/537.36
+            User-Agent: Mozilla/5.0 (Linux; Android 4.3; Galaxy Nexus Build/JWR66Y) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/35.0.1916.141 Mobile Safari/537.36
+            User-Agent: Mozilla/5.0 (Linux; Android 4.3; Galaxy Nexus Build/JWR66Y) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/35.0.1916.141 Mobile Safari/537.36
+            User-Agent: Mozilla/5.0 (Linux; Android 4.3; Galaxy Nexus Build/JWR66Y) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/35.0.1916.141 Mobile Safari/537.36
+            User-Agent: Mozilla/5.0 (Linux; Android 4.3; Galaxy Nexus Build/JWR66Y) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/35.0.1916.141 Mobile Safari/537.36
+            User-Agent: Mozilla/5.0 (Linux; Android 4.3; Galaxy Nexus Build/JWR66Y) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/35.0.1916.141 Mobile Safari/537.36
+            User-Agent: Mozilla/5.0 (Linux; Android 4.3; Galaxy Nexus Build/JWR66Y) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/35.0.1916.141 Mobile Safari/537.36
+            User-Agent: Mozilla/5.0 (Linux; Android 4.3; Galaxy Nexus Build/JWR66Y) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/35.0.1916.141 Mobile Safari/537.36
+            User-Agent: Mozilla/5.0 (Linux; Android 4.3; Galaxy Nexus Build/JWR66Y) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/35.0.1916.141 Mobile Safari/537.36
+            User-Agent: Mozilla/5.0 (Linux; Android 4.3; Galaxy Nexus Build/JWR66Y) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/35.0.1916.141 Mobile Safari/537.36
+            User-Agent: Mozilla/5.0 (Linux; Android 4.3; Galaxy Nexus Build/JWR66Y) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/35.0.1916.141 Mobile Safari/537.36
+            User-Agent: Mozilla/5.0 (Linux; Android 4.3; Galaxy Nexus Build/JWR66Y) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/35.0.1916.141 Mobile Safari/537.36
+            User-Agent: Mozilla/5.0 (Linux; Android 4.3; Galaxy Nexus Build/JWR66Y) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/35.0.1916.141 Mobile Safari/537.36
+            User-Agent: Mozilla/5.0 (Linux; Android 4.3; Galaxy Nexus Build/JWR66Y) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/35.0.1916.141 Mobile Safari/537.36
+            User-Agent: Mozilla/5.0 (Linux; Android 4.3; Galaxy Nexus Build/JWR66Y) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/35.0.1916.141 Mobile Safari/537.36
+            ...82.|.GET /pixel.gif?source=smarttag&fired=user_data_timeout&confid=JImcjrMY&_kpid=36b99e73-5c79-40db-9954-69f256f24981&_kcp_s=theverge&_kcp_d=theverge.com&_knifr=6&geo_country=us&geo_region=oh&geo_dma=535&_kua_kx_lang=en-us&_kua_kx_tech_browser_language=en-us&_kua_kx_geo_country=us&_kua_kx_geo_region=oh&_kua_kx_geo_dma=535&_kua_kx_tech_device=Mobile&_kua_kx_tech_manufacturer=Google%20Inc.&_kua_kx_tech_os=Android%204.x&_kua_kx_tech_browser=Chrome&t_navigation_type=2&t_dns=0&t_tcp=0&t_http_request=-1&t_http_response=9&t_content_ready=3182&t_window_load=6418&t_redirect=0&interchange_ran=true&store_user=ol34ajqix&userdata_was_requested=false&userdata_did_respond=false&store_user_after=ol34ajqix&_kpa_dfpsite=html&_kpa_dfpzone=r20140630&sview=1&kplt0=31271&kplt1=31036&kplt2=31037&kplt3=31211&kplt4=31212&kplt5=31213&kplt6=31214&kplt7=31283&kplt8=31035&kplt9=31223&jsonp_requests=%2F%2Fbeacon.krxd.net%2Foptout_check%2C705%2C%2F%2Fapiservices.krxd.net%2Fuser_data%2Fsegments%2F3%2CNaN HTTP/1.1
+            User-Agent: Mozilla/5.0 (Linux; Android 4.3; Galaxy Nexus Build/JWR66Y) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/35.0.1916.141 Mobile Safari/537.36
+            ...82.|.GET /pixel.gif?source=smarttag&fired=user_data_timeout&confid=JImcjrMY&_kpid=36b99e73-5c79-40db-9954-69f256f24981&_kcp_s=theverge&_kcp_d=theverge.com&_knifr=6&geo_country=us&geo_region=oh&geo_dma=535&_kua_kx_lang=en-us&_kua_kx_tech_browser_language=en-us&_kua_kx_geo_country=us&_kua_kx_geo_region=oh&_kua_kx_geo_dma=535&_kua_kx_tech_device=Mobile&_kua_kx_tech_manufacturer=Google%20Inc.&_kua_kx_tech_os=Android%204.x&_kua_kx_tech_browser=Chrome&t_navigation_type=2&t_dns=0&t_tcp=0&t_http_request=-1&t_http_response=9&t_content_ready=3182&t_window_load=6418&t_redirect=0&interchange_ran=true&store_user=ol34ajqix&userdata_was_requested=false&userdata_did_respond=false&store_user_after=ol34ajqix&_kpa_dfpsite=html&_kpa_dfpzone=r20140630&sview=1&kplt0=31271&kplt1=31036&kplt2=31037&kplt3=31211&kplt4=31212&kplt5=31213&kplt6=31214&kplt7=31283&kplt8=31035&kplt9=31223&jsonp_requests=%2F%2Fbeacon.krxd.net%2Foptout_check%2C705%2C%2F%2Fapiservices.krxd.net%2Fuser_data%2Fsegments%2F3%2CNaN HTTP/1.1
+            User-Agent: Mozilla/5.0 (Linux; Android 4.3; Galaxy Nexus Build/JWR66Y) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/35.0.1916.141 Mobile Safari/537.36
+            User-Agent: Mozilla/5.0 (Linux; Android 4.3; Galaxy Nexus Build/JWR66Y) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/35.0.1916.141 Mobile Safari/537.36
+            User-Agent: Mozilla/5.0 (Linux; Android 4.3; Galaxy Nexus Build/JWR66Y) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/35.0.1916.141 Mobile Safari/537.36
+        The following IPs were visited:
+            IP: 192.168.43.1
+            IP: 74.125.201.188
+            IP: 74.125.193.188
+            IP: 74.125.207.95
+            IP: 184.51.113.160
+            IP: 173.241.242.12
+            IP: 173.241.242.153
+            IP: 74.125.225.57
+            IP: 72.21.91.19
+            IP: 50.116.194.21
+            IP: 198.8.71.228
+            IP: 74.121.139.103
+            IP: 68.67.152.104
+            IP: 74.125.228.39
+            IP: 54.208.186.89
+            IP: 74.125.225.37
+            IP: 184.51.112.137
+            IP: 64.94.107.17
+            IP: 173.194.46.69
+            IP: 74.125.225.116
+            IP: 173.194.112.63
+            IP: 74.125.201.84
+            IP: 54.208.111.37
+            IP: 23.21.47.236
+            IP: 107.23.50.18
+            IP: 54.214.7.78
+            IP: 23.23.234.224
+            IP: 107.6.106.182
+            IP: 173.194.46.88
+            IP: 173.194.46.97
+            IP: 74.125.228.108
+            IP: 50.31.164.188
+            IP: 107.20.156.181
+            IP: 173.194.46.90
+            IP: 107.21.254.163
+            IP: 205.251.243.193
+            IP: 74.125.201.95

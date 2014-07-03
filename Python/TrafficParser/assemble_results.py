@@ -2,9 +2,10 @@ __author__ = 'austin'
 
 import json
 from Device import Device
+from keyword_search import keyword_search
 
 
-def assemble_results():
+def assemble_results(filename):
 
     #Read individual files back into dicts
     with open("Results/macs_and_ips_results.txt", "rb") as macs_ips:
@@ -17,10 +18,14 @@ def assemble_results():
         visited_ips_dict = json.load(visited_ips)
 
     devices_dict = {}
+    #A list of keywords to search the packets for
+    keywords = ["imei", "mac", "android"]
 
     # Create devices with Macs and Ip addresses
     for mac in macs_ips_dict:
-        new_device = Device(ip_address=macs_ips_dict[mac], mac_address=mac)
+        #Search the pcap file for all keywords sent by this mac address.
+        keyword_results = keyword_search(mac, filename, keywords)
+        new_device = Device(ip_address=macs_ips_dict[mac], mac_address=mac, keyword_dict=keyword_results)
         devices_dict[mac] = new_device  # Store the new device into the dict, with the key being it's mac address
 
     # Match the MAC addresses between the existing device dict and new useragents dict
@@ -45,6 +50,11 @@ def assemble_results():
         result_string += "Device" + str(index) + ": " + str(devices_dict[device])
         index +=1
 
-    f = open("Results/analysis_output.txt", 'wb')
+    # Extract just the "3apps_zedge" part of "var/tmp/3apps_zedge.pcap"
+    result_filename = filename.split("/")[-1]
+    result_filename = result_filename.split(".")[0]
+    result_filename = "Results/analysis_" + result_filename + ".txt"
+
+    f = open(result_filename, 'wb')
     f.write(result_string)
     f.close()

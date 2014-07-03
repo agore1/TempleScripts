@@ -1,0 +1,16 @@
+Device1: MAC=a0:0b:ba:e7:f5:d9 IP Address= 192.168.1.100 Packets Sent= 287
+
+        The following keywords were found: 
+            imei:
+            mac:
+            android:
+            16:17:38.820779 11670841074us tsft 2462 MHz 11g -47dB signal antenna 0 39.0 Mb/s MCS 4 20 MHz lon GI CF +QoS IP 192.168.1.100.41734 > 192.168.1.1.53: 23993+ A? android.clients.google.com. (44)
+            ........E..H.}@.@..r...d.......5.4..]............android.clients.google.com......2.p
+        The following IPs were visited:
+            IP: 4.35.21.141
+            IP: 4.35.21.140
+            IP: 192.168.1.1
+            IP: 74.125.226.0
+            IP: 157.166.248.10
+            IP: 157.166.238.48
+            IP: 74.125.22.188
