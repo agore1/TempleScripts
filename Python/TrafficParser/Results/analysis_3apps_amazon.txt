@@ -1,0 +1,213 @@
+Device1: MAC=a0:0b:ba:e7:f5:d9 IP Address= 192.168.1.100 Packets Sent= 1567
+        User Agents= [u'Dalvik/1.6.0 (Linux; U; Android 4.3; Galaxy Nexus Build/JWR66Y)', u'Mozilla/5.0 (Linux; U; Android 4.3; en-us; Galaxy Nexus Build/JWR66Y) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Mobile Safari/534.30', u'Amazon.com/2.10.0 (Android/4.3/Galaxy Nexus)']
+        The following keywords were found: 
+            imei:
+            mac:
+            ........E.....@.@.n....d. d..@.PUHn.....P.......POST /api3/generate_did?dt=android&app=shopping&appId=0240283278a94e36ad566057f09b1fb1&sha1_mac=ef9923d56db5440a04564afcd10824766d6d1a97&dinfo=%7B%22make%22%3A%22samsung%22%2C%22model%22%3A%22Galaxy%20Nexus%22%2C%22os%22%3A%22Android%22%2C%22osVersion%22%3A%224.3%22%7D&sha1_serial=907daed5d938508df992dda1645242895eb7c5ae&aud=amazon.com&ua=Mozilla%2F5.0%20%28Linux%3B%20U%3B%20Android%204.3%3B%20en-us%3B%20Galaxy%20Nexus%20Build%2FJWR66Y%29%20AppleWebKit%2F534.30%20%28KHTML%2C%20like%20Gecko%29%20Version%2F4.0%20Mobile%20Safari%2F534.30&pkg=%7B%22v%22%3A%22210001%22%2C%22lbl%22%3A%22Amazon%22%2C%22vn%22%3A%222.10.0%22%2C%22pn%22%3A%22com.amazon.mShop.android%22%7D&sdkVer=amznAdSDK-android-5.1.199&sha1_udid=4c3b5e5a03f20860dad018da5a87aa3b9c5197f4 HTTP/1.1
+            ........E.....@.@.n....d. d..@.PUHn.....P.......POST /api3/generate_did?dt=android&app=shopping&appId=0240283278a94e36ad566057f09b1fb1&sha1_mac=ef9923d56db5440a04564afcd10824766d6d1a97&dinfo=%7B%22make%22%3A%22samsung%22%2C%22model%22%3A%22Galaxy%20Nexus%22%2C%22os%22%3A%22Android%22%2C%22osVersion%22%3A%224.3%22%7D&sha1_serial=907daed5d938508df992dda1645242895eb7c5ae&aud=amazon.com&ua=Mozilla%2F5.0%20%28Linux%3B%20U%3B%20Android%204.3%3B%20en-us%3B%20Galaxy%20Nexus%20Build%2FJWR66Y%29%20AppleWebKit%2F534.30%20%28KHTML%2C%20like%20Gecko%29%20Version%2F4.0%20Mobile%20Safari%2F534.30&pkg=%7B%22v%22%3A%22210001%22%2C%22lbl%22%3A%22Amazon%22%2C%22vn%22%3A%222.10.0%22%2C%22pn%22%3A%22com.amazon.mShop.android%22%7D&sdkVer=amznAdSDK-android-5.1.199&sha1_udid=4c3b5e5a03f20860dad018da5a87aa3b9c5197f4 HTTP/1.1
+            ........E.....@.@.n....d. d..@.PUHn.....P.......POST /api3/generate_did?dt=android&app=shopping&appId=0240283278a94e36ad566057f09b1fb1&sha1_mac=ef9923d56db5440a04564afcd10824766d6d1a97&dinfo=%7B%22make%22%3A%22samsung%22%2C%22model%22%3A%22Galaxy%20Nexus%22%2C%22os%22%3A%22Android%22%2C%22osVersion%22%3A%224.3%22%7D&sha1_serial=907daed5d938508df992dda1645242895eb7c5ae&aud=amazon.com&ua=Mozilla%2F5.0%20%28Linux%3B%20U%3B%20Android%204.3%3B%20en-us%3B%20Galaxy%20Nexus%20Build%2FJWR66Y%29%20AppleWebKit%2F534.30%20%28KHTML%2C%20like%20Gecko%29%20Version%2F4.0%20Mobile%20Safari%2F534.30&pkg=%7B%22v%22%3A%22210001%22%2C%22lbl%22%3A%22Amazon%22%2C%22vn%22%3A%222.10.0%22%2C%22pn%22%3A%22com.amazon.mShop.android%22%7D&sdkVer=amznAdSDK-android-5.1.199&sha1_udid=4c3b5e5a03f20860dad018da5a87aa3b9c5197f4 HTTP/1.1
+            android:
+            10:31:23.030411 1881277762955us tsft 2412 MHz 11g -59dB signal antenna 0 65.0 Mb/s MCS 7 20 MHz lon GI CF +QoS IP 192.168.1.100.40437 > 192.168.1.1.53: 55905+ A? android.clients.google.com. (44)
+            ........E..H.J@.@......d.......5.4PC.a...........android.clients.google.com........2
+            User-Agent: Dalvik/1.6.0 (Linux; U; Android 4.3; Galaxy Nexus Build/JWR66Y)
+            ........E.....@.@. |...d.......P.k}.Bn..P....4....y....F.VYv..mShop..home_v36..name=Amazon.com;ver=2.10.0;device=Galaxy Nexus;os=Android_4.3;UDID=1cd3921dab8e8c7;network=;tag=;mp=US;DSN=0149C22118018016;;ttg=toggle_marketplace_notifications_v35:0.091;prevCallFailed=toggle_marketplace_notifications_v35:.y1|.k.j....c).."..!<"m.._....%t@nZ.1..-....c.G.y`=!.X..Up.n...
+            ...Oj.......<....X.....^.Y.6. ..O.+kk..0.G'..V...o..c.B.-A..........................
+            ........E.....@.@.RW...d..._...P ./..\..P...d...POST /x/msdk?appId=0240283278a94e36ad566057f09b1fb1&dinfo=%7B%22scalingFactor%22%3A%222.0%22%2C%22screenSize%22%3A%22720x1184%22%2C%22orientation%22%3A%22portrait%22%2C%22os%22%3A%22Android%22%2C%22model%22%3A%22Galaxy%20Nexus%22%2C%22osVersion%22%3A%224.3%22%2C%22connectionType%22%3A%22Wifi%22%2C%22language%22%3A%22en%22%2C%22make%22%3A%22samsung%22%2C%22country%22%3A%22US%22%7D&pt=GW_PROMO_LEFT&pkg=%7B%22v%22%3A%22210001%22%2C%22lbl%22%3A%22Amazon%22%2C%22vn%22%3A%222.10.0%22%2C%22pn%22%3A%22com.amazon.mShop.android%22%7D&ua=Mozilla%2F5.0%20%28Linux%3B%20U%3B%20Android%204.3%3B%20en-us%3B%20Galaxy%20Nexus%20Build%2FJWR66Y%29%20AppleWebKit%2F534.30%20%28KHTML%2C%20like%20Gecko%29%20Version%2F4.0%20Mobile%20Safari%2F534.30&adsdk=amznAdSDK-android-5.1.199&slot=portrait&sz=150x94&sha1_udid=4c3b5e5a03f20860dad018da5a87aa3b9c5197f4&pk=%5B%22%22%5D HTTP/1.1
+            User-Agent: Dalvik/1.6.0 (Linux; U; Android 4.3; Galaxy Nexus Build/JWR66Y)
+            ........E.....@.@.v....d..._.>.P...uC.BPP...a...POST /x/msdk?appId=0240283278a94e36ad566057f09b1fb1&dinfo=%7B%22scalingFactor%22%3A%222.0%22%2C%22screenSize%22%3A%22720x1184%22%2C%22orientation%22%3A%22portrait%22%2C%22os%22%3A%22Android%22%2C%22model%22%3A%22Galaxy%20Nexus%22%2C%22osVersion%22%3A%224.3%22%2C%22connectionType%22%3A%22Wifi%22%2C%22language%22%3A%22en%22%2C%22make%22%3A%22samsung%22%2C%22country%22%3A%22US%22%7D&pt=GW_PROMO_RIGHT&pkg=%7B%22v%22%3A%22210001%22%2C%22lbl%22%3A%22Amazon%22%2C%22vn%22%3A%222.10.0%22%2C%22pn%22%3A%22com.amazon.mShop.android%22%7D&ua=Mozilla%2F5.0%20%28Linux%3B%20U%3B%20Android%204.3%3B%20en-us%3B%20Galaxy%20Nexus%20Build%2FJWR66Y%29%20AppleWebKit%2F534.30%20%28KHTML%2C%20like%20Gecko%29%20Version%2F4.0%20Mobile%20Safari%2F534.30&adsdk=amznAdSDK-android-5.1.199&slot=portrait&sz=150x94&sha1_udid=4c3b5e5a03f20860dad018da5a87aa3b9c5197f4&pk=%5B%22%22%5D HTTP/1.1
+            User-Agent: Dalvik/1.6.0 (Linux; U; Android 4.3; Galaxy Nexus Build/JWR66Y)
+            ........E.....@.@.n....d. d..@.PUHn.....P.......POST /api3/generate_did?dt=android&app=shopping&appId=0240283278a94e36ad566057f09b1fb1&sha1_mac=ef9923d56db5440a04564afcd10824766d6d1a97&dinfo=%7B%22make%22%3A%22samsung%22%2C%22model%22%3A%22Galaxy%20Nexus%22%2C%22os%22%3A%22Android%22%2C%22osVersion%22%3A%224.3%22%7D&sha1_serial=907daed5d938508df992dda1645242895eb7c5ae&aud=amazon.com&ua=Mozilla%2F5.0%20%28Linux%3B%20U%3B%20Android%204.3%3B%20en-us%3B%20Galaxy%20Nexus%20Build%2FJWR66Y%29%20AppleWebKit%2F534.30%20%28KHTML%2C%20like%20Gecko%29%20Version%2F4.0%20Mobile%20Safari%2F534.30&pkg=%7B%22v%22%3A%22210001%22%2C%22lbl%22%3A%22Amazon%22%2C%22vn%22%3A%222.10.0%22%2C%22pn%22%3A%22com.amazon.mShop.android%22%7D&sdkVer=amznAdSDK-android-5.1.199&sha1_udid=4c3b5e5a03f20860dad018da5a87aa3b9c5197f4 HTTP/1.1
+            User-Agent: Dalvik/1.6.0 (Linux; U; Android 4.3; Galaxy Nexus Build/JWR66Y)
+            ........E.....@.@.n....d. d..@.PUHn.....P.......POST /api3/generate_did?dt=android&app=shopping&appId=0240283278a94e36ad566057f09b1fb1&sha1_mac=ef9923d56db5440a04564afcd10824766d6d1a97&dinfo=%7B%22make%22%3A%22samsung%22%2C%22model%22%3A%22Galaxy%20Nexus%22%2C%22os%22%3A%22Android%22%2C%22osVersion%22%3A%224.3%22%7D&sha1_serial=907daed5d938508df992dda1645242895eb7c5ae&aud=amazon.com&ua=Mozilla%2F5.0%20%28Linux%3B%20U%3B%20Android%204.3%3B%20en-us%3B%20Galaxy%20Nexus%20Build%2FJWR66Y%29%20AppleWebKit%2F534.30%20%28KHTML%2C%20like%20Gecko%29%20Version%2F4.0%20Mobile%20Safari%2F534.30&pkg=%7B%22v%22%3A%22210001%22%2C%22lbl%22%3A%22Amazon%22%2C%22vn%22%3A%222.10.0%22%2C%22pn%22%3A%22com.amazon.mShop.android%22%7D&sdkVer=amznAdSDK-android-5.1.199&sha1_udid=4c3b5e5a03f20860dad018da5a87aa3b9c5197f4 HTTP/1.1
+            User-Agent: Dalvik/1.6.0 (Linux; U; Android 4.3; Galaxy Nexus Build/JWR66Y)
+            ........E.....@.@.n....d. d..@.PUHn.....P.......POST /api3/generate_did?dt=android&app=shopping&appId=0240283278a94e36ad566057f09b1fb1&sha1_mac=ef9923d56db5440a04564afcd10824766d6d1a97&dinfo=%7B%22make%22%3A%22samsung%22%2C%22model%22%3A%22Galaxy%20Nexus%22%2C%22os%22%3A%22Android%22%2C%22osVersion%22%3A%224.3%22%7D&sha1_serial=907daed5d938508df992dda1645242895eb7c5ae&aud=amazon.com&ua=Mozilla%2F5.0%20%28Linux%3B%20U%3B%20Android%204.3%3B%20en-us%3B%20Galaxy%20Nexus%20Build%2FJWR66Y%29%20AppleWebKit%2F534.30%20%28KHTML%2C%20like%20Gecko%29%20Version%2F4.0%20Mobile%20Safari%2F534.30&pkg=%7B%22v%22%3A%22210001%22%2C%22lbl%22%3A%22Amazon%22%2C%22vn%22%3A%222.10.0%22%2C%22pn%22%3A%22com.amazon.mShop.android%22%7D&sdkVer=amznAdSDK-android-5.1.199&sha1_udid=4c3b5e5a03f20860dad018da5a87aa3b9c5197f4 HTTP/1.1
+            User-Agent: Dalvik/1.6.0 (Linux; U; Android 4.3; Galaxy Nexus Build/JWR66Y)
+            User-Agent: Dalvik/1.6.0 (Linux; U; Android 4.3; Galaxy Nexus Build/JWR66Y)
+            X-Requested-With: com.amazon.mShop.android
+            User-Agent: Mozilla/5.0 (Linux; U; Android 4.3; en-us; Galaxy Nexus Build/JWR66Y) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Mobile Safari/534.30
+            User-Agent: Dalvik/1.6.0 (Linux; U; Android 4.3; Galaxy Nexus Build/JWR66Y)
+            User-Agent: Amazon.com/2.10.0 (Android/4.3/Galaxy Nexus)
+            User-Agent: Amazon.com/2.10.0 (Android/4.3/Galaxy Nexus)
+            User-Agent: Amazon.com/2.10.0 (Android/4.3/Galaxy Nexus)
+            User-Agent: Amazon.com/2.10.0 (Android/4.3/Galaxy Nexus)
+            User-Agent: Amazon.com/2.10.0 (Android/4.3/Galaxy Nexus)
+            User-Agent: Amazon.com/2.10.0 (Android/4.3/Galaxy Nexus)
+            User-Agent: Amazon.com/2.10.0 (Android/4.3/Galaxy Nexus)
+            User-Agent: Amazon.com/2.10.0 (Android/4.3/Galaxy Nexus)
+            User-Agent: Amazon.com/2.10.0 (Android/4.3/Galaxy Nexus)
+            User-Agent: Amazon.com/2.10.0 (Android/4.3/Galaxy Nexus)
+            User-Agent: Amazon.com/2.10.0 (Android/4.3/Galaxy Nexus)
+            User-Agent: Amazon.com/2.10.0 (Android/4.3/Galaxy Nexus)
+            User-Agent: Amazon.com/2.10.0 (Android/4.3/Galaxy Nexus)
+            User-Agent: Amazon.com/2.10.0 (Android/4.3/Galaxy Nexus)
+            User-Agent: Amazon.com/2.10.0 (Android/4.3/Galaxy Nexus)
+            User-Agent: Amazon.com/2.10.0 (Android/4.3/Galaxy Nexus)
+            User-Agent: Amazon.com/2.10.0 (Android/4.3/Galaxy Nexus)
+            User-Agent: Amazon.com/2.10.0 (Android/4.3/Galaxy Nexus)
+            User-Agent: Amazon.com/2.10.0 (Android/4.3/Galaxy Nexus)
+            User-Agent: Amazon.com/2.10.0 (Android/4.3/Galaxy Nexus)
+            User-Agent: Amazon.com/2.10.0 (Android/4.3/Galaxy Nexus)
+            User-Agent: Amazon.com/2.10.0 (Android/4.3/Galaxy Nexus)
+            User-Agent: Amazon.com/2.10.0 (Android/4.3/Galaxy Nexus)
+            User-Agent: Amazon.com/2.10.0 (Android/4.3/Galaxy Nexus)
+            User-Agent: Amazon.com/2.10.0 (Android/4.3/Galaxy Nexus)
+            X-Requested-With: com.amazon.mShop.android
+            User-Agent: Amazon.com/2.10.0 (Android/4.3/Galaxy Nexus)
+            X-Requested-With: com.amazon.mShop.android
+            User-Agent: Amazon.com/2.10.0 (Android/4.3/Galaxy Nexus)
+            X-Requested-With: com.amazon.mShop.android
+            User-Agent: Amazon.com/2.10.0 (Android/4.3/Galaxy Nexus)
+            X-Requested-With: com.amazon.mShop.android
+            User-Agent: Amazon.com/2.10.0 (Android/4.3/Galaxy Nexus)
+            X-Requested-With: com.amazon.mShop.android
+            User-Agent: Amazon.com/2.10.0 (Android/4.3/Galaxy Nexus)
+            X-Requested-With: com.amazon.mShop.android
+            User-Agent: Amazon.com/2.10.0 (Android/4.3/Galaxy Nexus)
+            X-Requested-With: com.amazon.mShop.android
+            User-Agent: Amazon.com/2.10.0 (Android/4.3/Galaxy Nexus)
+            X-Requested-With: com.amazon.mShop.android
+            User-Agent: Amazon.com/2.10.0 (Android/4.3/Galaxy Nexus)
+            X-Requested-With: com.amazon.mShop.android
+            User-Agent: Amazon.com/2.10.0 (Android/4.3/Galaxy Nexus)
+            X-Requested-With: com.amazon.mShop.android
+            User-Agent: Amazon.com/2.10.0 (Android/4.3/Galaxy Nexus)
+            X-Requested-With: com.amazon.mShop.android
+            User-Agent: Amazon.com/2.10.0 (Android/4.3/Galaxy Nexus)
+            X-Requested-With: com.amazon.mShop.android
+            User-Agent: Amazon.com/2.10.0 (Android/4.3/Galaxy Nexus)
+            X-Requested-With: com.amazon.mShop.android
+            User-Agent: Amazon.com/2.10.0 (Android/4.3/Galaxy Nexus)
+            X-Requested-With: com.amazon.mShop.android
+            User-Agent: Amazon.com/2.10.0 (Android/4.3/Galaxy Nexus)
+            X-Requested-With: com.amazon.mShop.android
+            User-Agent: Amazon.com/2.10.0 (Android/4.3/Galaxy Nexus)
+            X-Requested-With: com.amazon.mShop.android
+            User-Agent: Amazon.com/2.10.0 (Android/4.3/Galaxy Nexus)
+            X-Requested-With: com.amazon.mShop.android
+            User-Agent: Amazon.com/2.10.0 (Android/4.3/Galaxy Nexus)
+            X-Requested-With: com.amazon.mShop.android
+            User-Agent: Amazon.com/2.10.0 (Android/4.3/Galaxy Nexus)
+            X-Requested-With: com.amazon.mShop.android
+            User-Agent: Amazon.com/2.10.0 (Android/4.3/Galaxy Nexus)
+            X-Requested-With: com.amazon.mShop.android
+            User-Agent: Amazon.com/2.10.0 (Android/4.3/Galaxy Nexus)
+            X-Requested-With: com.amazon.mShop.android
+            User-Agent: Amazon.com/2.10.0 (Android/4.3/Galaxy Nexus)
+            X-Requested-With: com.amazon.mShop.android
+            User-Agent: Amazon.com/2.10.0 (Android/4.3/Galaxy Nexus)
+            X-Requested-With: com.amazon.mShop.android
+            User-Agent: Amazon.com/2.10.0 (Android/4.3/Galaxy Nexus)
+            X-Requested-With: com.amazon.mShop.android
+            User-Agent: Amazon.com/2.10.0 (Android/4.3/Galaxy Nexus)
+            X-Requested-With: com.amazon.mShop.android
+            User-Agent: Amazon.com/2.10.0 (Android/4.3/Galaxy Nexus)
+            X-Requested-With: com.amazon.mShop.android
+            User-Agent: Amazon.com/2.10.0 (Android/4.3/Galaxy Nexus)
+            X-Requested-With: com.amazon.mShop.android
+            User-Agent: Amazon.com/2.10.0 (Android/4.3/Galaxy Nexus)
+            X-Requested-With: com.amazon.mShop.android
+            User-Agent: Amazon.com/2.10.0 (Android/4.3/Galaxy Nexus)
+            X-Requested-With: com.amazon.mShop.android
+            User-Agent: Amazon.com/2.10.0 (Android/4.3/Galaxy Nexus)
+            X-Requested-With: com.amazon.mShop.android
+            User-Agent: Amazon.com/2.10.0 (Android/4.3/Galaxy Nexus)
+            X-Requested-With: com.amazon.mShop.android
+            User-Agent: Amazon.com/2.10.0 (Android/4.3/Galaxy Nexus)
+            X-Requested-With: com.amazon.mShop.android
+            User-Agent: Amazon.com/2.10.0 (Android/4.3/Galaxy Nexus)
+            X-Requested-With: com.amazon.mShop.android
+            User-Agent: Amazon.com/2.10.0 (Android/4.3/Galaxy Nexus)
+            X-Requested-With: com.amazon.mShop.android
+            User-Agent: Amazon.com/2.10.0 (Android/4.3/Galaxy Nexus)
+            X-Requested-With: com.amazon.mShop.android
+            User-Agent: Amazon.com/2.10.0 (Android/4.3/Galaxy Nexus)
+            X-Requested-With: com.amazon.mShop.android
+            User-Agent: Amazon.com/2.10.0 (Android/4.3/Galaxy Nexus)
+            X-Requested-With: com.amazon.mShop.android
+            User-Agent: Amazon.com/2.10.0 (Android/4.3/Galaxy Nexus)
+            X-Requested-With: com.amazon.mShop.android
+            User-Agent: Amazon.com/2.10.0 (Android/4.3/Galaxy Nexus)
+            X-Requested-With: com.amazon.mShop.android
+            User-Agent: Amazon.com/2.10.0 (Android/4.3/Galaxy Nexus)
+            X-Requested-With: com.amazon.mShop.android
+            User-Agent: Amazon.com/2.10.0 (Android/4.3/Galaxy Nexus)
+            X-Requested-With: com.amazon.mShop.android
+            User-Agent: Amazon.com/2.10.0 (Android/4.3/Galaxy Nexus)
+            X-Requested-With: com.amazon.mShop.android
+            User-Agent: Amazon.com/2.10.0 (Android/4.3/Galaxy Nexus)
+            X-Requested-With: com.amazon.mShop.android
+            User-Agent: Amazon.com/2.10.0 (Android/4.3/Galaxy Nexus)
+            X-Requested-With: com.amazon.mShop.android
+            User-Agent: Amazon.com/2.10.0 (Android/4.3/Galaxy Nexus)
+            User-Agent: Amazon.com/2.10.0 (Android/4.3/Galaxy Nexus)
+            User-Agent: Amazon.com/2.10.0 (Android/4.3/Galaxy Nexus)
+            User-Agent: Amazon.com/2.10.0 (Android/4.3/Galaxy Nexus)
+            User-Agent: Amazon.com/2.10.0 (Android/4.3/Galaxy Nexus)
+            User-Agent: Amazon.com/2.10.0 (Android/4.3/Galaxy Nexus)
+            User-Agent: Amazon.com/2.10.0 (Android/4.3/Galaxy Nexus)
+            User-Agent: Amazon.com/2.10.0 (Android/4.3/Galaxy Nexus)
+            User-Agent: Amazon.com/2.10.0 (Android/4.3/Galaxy Nexus)
+            User-Agent: Amazon.com/2.10.0 (Android/4.3/Galaxy Nexus)
+            User-Agent: Amazon.com/2.10.0 (Android/4.3/Galaxy Nexus)
+            X-Requested-With: com.amazon.mShop.android
+            User-Agent: Amazon.com/2.10.0 (Android/4.3/Galaxy Nexus)
+            X-Requested-With: com.amazon.mShop.android
+            User-Agent: Amazon.com/2.10.0 (Android/4.3/Galaxy Nexus)
+            X-Requested-With: com.amazon.mShop.android
+            User-Agent: Amazon.com/2.10.0 (Android/4.3/Galaxy Nexus)
+            X-Requested-With: com.amazon.mShop.android
+            User-Agent: Amazon.com/2.10.0 (Android/4.3/Galaxy Nexus)
+            X-Requested-With: com.amazon.mShop.android
+            User-Agent: Amazon.com/2.10.0 (Android/4.3/Galaxy Nexus)
+            X-Requested-With: com.amazon.mShop.android
+            User-Agent: Amazon.com/2.10.0 (Android/4.3/Galaxy Nexus)
+            X-Requested-With: com.amazon.mShop.android
+            User-Agent: Amazon.com/2.10.0 (Android/4.3/Galaxy Nexus)
+            X-Requested-With: com.amazon.mShop.android
+            User-Agent: Amazon.com/2.10.0 (Android/4.3/Galaxy Nexus)
+            X-Requested-With: com.amazon.mShop.android
+            User-Agent: Amazon.com/2.10.0 (Android/4.3/Galaxy Nexus)
+            X-Requested-With: com.amazon.mShop.android
+            User-Agent: Amazon.com/2.10.0 (Android/4.3/Galaxy Nexus)
+            X-Requested-With: com.amazon.mShop.android
+            User-Agent: Amazon.com/2.10.0 (Android/4.3/Galaxy Nexus)
+            X-Requested-With: com.amazon.mShop.android
+            User-Agent: Amazon.com/2.10.0 (Android/4.3/Galaxy Nexus)
+            X-Requested-With: com.amazon.mShop.android
+            User-Agent: Amazon.com/2.10.0 (Android/4.3/Galaxy Nexus)
+            X-Requested-With: com.amazon.mShop.android
+            User-Agent: Amazon.com/2.10.0 (Android/4.3/Galaxy Nexus)
+            X-Requested-With: com.amazon.mShop.android
+            User-Agent: Amazon.com/2.10.0 (Android/4.3/Galaxy Nexus)
+            X-Requested-With: com.amazon.mShop.android
+            User-Agent: Amazon.com/2.10.0 (Android/4.3/Galaxy Nexus)
+            X-Requested-With: com.amazon.mShop.android
+            User-Agent: Amazon.com/2.10.0 (Android/4.3/Galaxy Nexus)
+            X-Requested-With: com.amazon.mShop.android
+            User-Agent: Amazon.com/2.10.0 (Android/4.3/Galaxy Nexus)
+            X-Requested-With: com.amazon.mShop.android
+            User-Agent: Amazon.com/2.10.0 (Android/4.3/Galaxy Nexus)
+            X-Requested-With: com.amazon.mShop.android
+            User-Agent: Amazon.com/2.10.0 (Android/4.3/Galaxy Nexus)
+            X-Requested-With: com.amazon.mShop.android
+            User-Agent: Amazon.com/2.10.0 (Android/4.3/Galaxy Nexus)
+            X-Requested-With: com.amazon.mShop.android
+            User-Agent: Amazon.com/2.10.0 (Android/4.3/Galaxy Nexus)
+            X-Requested-With: com.amazon.mShop.android
+            User-Agent: Amazon.com/2.10.0 (Android/4.3/Galaxy Nexus)
+            X-Requested-With: com.amazon.mShop.android
+            User-Agent: Amazon.com/2.10.0 (Android/4.3/Galaxy Nexus)
+        The following IPs were visited:
+            IP: 205.251.242.54
+            IP: 192.168.1.1
+            IP: 207.171.162.253
+            IP: 173.194.43.4
+            IP: 207.171.162.95
+            IP: 176.32.100.5
+            IP: 54.230.51.130
+            IP: 205.251.251.246
+            IP: 64.233.171.95
+            IP: 23.220.34.47
+            IP: 207.171.162.28
+            IP: 72.21.211.10
+            IP: 54.230.51.88

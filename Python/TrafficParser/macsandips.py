@@ -8,7 +8,7 @@ import csv
 import json
 
 
-def macs_and_ips(filename):
+def macs_and_ips(filename, pathname):
     capture = pyshark.FileCapture(filename, display_filter='tcp or udp')
     errors = 0
     src_dict = {}  # Stores the MAC IP address pairs
@@ -47,6 +47,6 @@ def macs_and_ips(filename):
     # w.writerows(sorted_src_list)
     # result_file.close()
 
-    with open("Results/macs_and_ips_results.txt", "wb") as result_file:
+    with open(pathname + "/Results/macs_and_ips_results.txt", "wb") as result_file:
         json.dump(src_dict, result_file)
 

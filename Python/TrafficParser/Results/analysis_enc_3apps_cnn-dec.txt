@@ -1,0 +1,98 @@
+Device1: MAC=a0:0b:ba:e7:f5:d9 IP Address= 192.168.43.243 Packets Sent= 1777
+        User Agents= [u'Google/TWC', u'Mozilla/5.0 (Linux; U; Android 4.3; en-US; Galaxy Nexus Build/JWR66Y) CNN/2.1.3', u'AndroidCvpPlayer(Linux; U; Android 4.3; en-us)', u'Dalvik/1.6.0 (Linux; U; Android 4.3; Galaxy Nexus Build/JWR66Y)', u'Apache-HttpClient/UNAVAILABLE (java 1.4)', u'Mozilla/5.0 (Android 4.3; en-us; Galaxy Nexus Build/JWR66Y) FreeWheelAdManager/5.13.0-r10462-1403240717;com.cnn.mobile.android.phone/215', u'Mozilla/5.0 (Linux; U; Android 4.3; en-us; Galaxy Nexus Build/JWR66Y) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Mobile Safari/534.30']
+        The following keywords were found: 
+            imei:
+            mac:
+            android:
+            ........E..U....@............D.C.Al.....3.:g....................................................................................................................................................................................................................................c.Sc5..=........2...+.9...<.dhcpcd-5.5.6..android-1cd3921dab8e8c77	.!....3:;.
+            16:11:24.502812 CF +QoS IP 192.168.43.243.59799 > 192.168.43.1.53: 26226+ A? android.clients.google.com. (44)
+            ........E..H..@.@..r..+...+....5.4$.fr...........android.clients.google.com.....
+            ....3.^.GET /b/ss/cnn-adbp-apps-enh-cnn/0/JAVA-3.2.5-AN/s7820759?AQB=1&ndh=1&ts=1404418538&ce=UTF-8&vid=05e06097e5574586936f028f883eb49e&pev2=ADMS%20BP%20Event&t=3%2F6%2F2014%2016%3A15%3A38%204%20240&c.&a.&HourOfDay=16&Resolution=720x1184&MonthlyEngUserEvent=MonthlyEngUserEvent&InstallEvent=InstallEvent&EngDaysLifetime=%2B1&DailyEngUserEvent=DailyEngUserEvent&InstallDate=7%2F3%2F2014&AppID=CNN%282.1.3%29&OSVersion=Android%204.3&Launches=1&DeviceName=Galaxy%20Nexus&DayOfWeek=5&OSEnvironment=Android%204.3&LaunchEvent=LaunchEvent&.a&.c&pe=lnk_o&pageName=CNN%282.1.3%29%20Install&AQE=1 HTTP/1.1
+            User-Agent: Mozilla/5.0 (Linux; U; Android 4.3; en-US; Galaxy Nexus Build/JWR66Y) CNN/2.1.3
+            ...f3.a.GET /partners/android/config/3.02/config-phone.json HTTP/1.1
+            ...g3.a.GET /partners/android/config/3.02/config-phone.json HTTP/1.1
+            ....3.b.GET /xslo/cvp/config/aspen/android/aspenConfig_12.xml HTTP/1.1
+            User-Agent: AndroidCvpPlayer(Linux; U; Android 4.3; en-us)
+            ....3.b.GET /p2?c1=19&c2=6035748&ns_ap_an=CNN&ns_ap_pn=android&c12=273739477a54d2d8a4126ae6816d00df-cs31&name=start&ns_ak=dzV4xK0DpMCkPEYvNaANJ7wnfeCwGGWXK5sfqO%2B2OBtGkL64n6DMY6HbaJMs%2FoHBdQ9lzgufd4jDS4JzVcuiyZgoWOl61woTHfkSHMAf0QSSZ9UOqIrK9bxNRoCYj%2FrmZ772gjX9x%2F573HIUzJJXfMHP9AQQhBPJO02B9QsUOag%3D&ns_ap_ec=1&ns_ap_ev=start&ns_ap_device=maguro&ns_ap_id=1404418539045&ns_ap_csf=1&ns_ap_bi=com.cnn.mobile.android.phone&ns_ap_pfm=android&ns_ap_pfv=4.3&ns_ap_ver=2.1.3&ns_ap_sv=2.1309.19&ns_type=view&ns_radio=wifi&ns_nc=1&ns_ap_gs=1404418538634&ns_ap_jb=0&ns_ap_res=720x1184&ns_ap_install=1404418538634&ns_ap_lastrun=0&ns_ap_cs=1&ns_ap_runs=1&ns_ap_usage=411&ns_ap_fg=1&ns_ap_ft=42&ns_ap_dft=42&ns_ap_bt=0&ns_ap_dbt=0&ns_ap_dit=369&ns_ap_as=1&ns_ap_das=411&ns_ap_it=369&ns_ap_lang=en&ns_ts=1404418539045 HTTP/1.1
+            User-Agent: Dalvik/1.6.0 (Linux; U; Android 4.3; Galaxy Nexus Build/JWR66Y)
+            ....3.a.GET /xslo/cvp/config/aspen/android/aspenEventConfig_12.json HTTP/1.1
+            User-Agent: AndroidCvpPlayer(Linux; U; Android 4.3; en-us)
+            ....3.bIGET /b/ss/cnn-adbp-apps-enh-cnn/0/JAVA-3.2.5-AN/s49197825?AQB=1&ndh=1&ts=1404418560&ce=UTF-8&vid=05e06097e5574586936f028f883eb49e&t=3%2F6%2F2014%2016%3A16%3A0%204%20240&c.&section=sections&appname=cnn&authrequired=non%20auth&mvpd=no%20mvpd%20set&userstate=cnn%20news&hierarchy=news%7Ccnn%7Ccnn%20domestic%7Csections%7Chome&a.&DeviceName=Galaxy%20Nexus&OSVersion=Android%204.3&Resolution=720x1184&.a&subsection=sections%3Ahome&sdkversion=JAVA-3.2.5-AN%3A2.1.3&businessunit=cnn%20domestic&templatetype=home&contenttype=adbp%3Anone&pageview=1&page=cnn%3Asections%3Ahome%3A&orientation=portrait&.c&pageName=Page&AQE=1 HTTP/1.1
+            User-Agent: Mozilla/5.0 (Linux; U; Android 4.3; en-US; Galaxy Nexus Build/JWR66Y) CNN/2.1.3
+            User-Agent: AndroidCvpPlayer(Linux; U; Android 4.3; en-us)
+            ....3.bVGET /p2?c1=19&c2=6035748&ns_ap_an=CNN&ns_ap_pn=android&c12=273739477a54d2d8a4126ae6816d00df-cs31&name=foreground&ns_ak=dzV4xK0DpMCkPEYvNaANJ7wnfeCwGGWXK5sfqO%2B2OBtGkL64n6DMY6HbaJMs%2FoHBdQ9lzgufd4jDS4JzVcuiyZgoWOl61woTHfkSHMAf0QSSZ9UOqIrK9bxNRoCYj%2FrmZ772gjX9x%2F573HIUzJJXfMHP9AQQhBPJO02B9QsUOag%3D&ns_ap_ec=2&ns_ap_ev=keep-alive&ns_ap_device=maguro&ns_ap_id=1404418539045&ns_ap_bi=com.cnn.mobile.android.phone&ns_ap_pfm=android&ns_ap_pfv=4.3&ns_ap_ver=2.1.3&ns_ap_sv=2.1309.19&ns_type=hidden&ns_radio=wifi&ns_nc=1&ns_ap_res=720x1184&ns_ap_cs=1&ns_ap_usage=3649&ns_ap_fg=0&ns_ap_ft=3238&ns_ap_dft=3238&ns_ap_bt=0&ns_ap_dbt=0&ns_ap_dit=0&ns_ap_as=0&ns_ap_das=3239&ns_ap_it=0&ns_ap_oc=0&ns_ap_lang=en&ns_ts=1404418542283 HTTP/1.1
+            User-Agent: Dalvik/1.6.0 (Linux; U; Android 4.3; Galaxy Nexus Build/JWR66Y)
+            User-Agent: AndroidCvpPlayer(Linux; U; Android 4.3; en-us)
+            aspenJson=%7B%22propertyName%22%3A%22CNN%22%2C%22applicationVersion%22%3A%221.0.6.1%22%2C%22protocol%22%3A%221.0%22%2C%22platformName%22%3A%22android%22%2C%22applicationName%22%3A%22cvp%22%7D
+            ....3.bjGET /svc/mcs/featured/androidphone/v2-0/30 HTTP/1.1
+            ....3.bjGET /svc/mcs/topstories/androidphone/v2-0/50 HTTP/1.1
+            User-Agent: AndroidCvpPlayer(Linux; U; Android 4.3; en-us)
+            ....3.b.aspenJson=%7B%22propertyName%22%3A%22CNN%22%2C%22applicationVersion%22%3A%224.1%22%2C%22protocol%22%3A%221.0%22%2C%22platformName%22%3A%22android%22%2C%22sessionId%22%3A%22b3a99285a7b364b0c07c687e007f1ab0b5c0e36d%7Ecvp%7Eandroid%7Ecnn%7E50%22%2C%22applicationName%22%3A%22auth%22%7D
+            ....3.j_GET /b/ss/cnn-adbp-apps-enh-cnn/0/JAVA-3.2.5-AN/s3690467?AQB=1&ndh=1&ts=1404418568&ce=UTF-8&vid=05e06097e5574586936f028f883eb49e&t=3%2F6%2F2014%2016%3A16%3A8%204%20240&c.&headline=father%20of%20son%20who%20died%20in%20car%20faces%20judge&section=sections&appname=cnn&authrequired=non%20auth&mvpd=no%20mvpd%20set&userstate=cnn%20news&hierarchy=news%7Ccnn%7Ccnn%20domestic%7Csections%7Chome&a.&DeviceName=Galaxy%20Nexus&OSVersion=Android%204.3&Resolution=720x1184&.a&subsection=sections%3Ahome&sdkversion=JAVA-3.2.5-AN%3A2.1.3&businessunit=cnn%20domestic&templatetype=content&contenttype=content&pageview=1&page=cnn%3Asections%3Ahome%3A%2F2014%2F07%2F03%2Fjustice%2Fgeorgia-hot-car-toddler-death&orientation=portrait&.c&pageName=Page&AQE=1 HTTP/1.1
+            User-Agent: Mozilla/5.0 (Linux; U; Android 4.3; en-US; Galaxy Nexus Build/JWR66Y) CNN/2.1.3
+            ....3.ji<?xml version='1.0' encoding='UTF-8' standalone='yes' ?><adRequest networkId="48804" profile="cnn_android_v1" version="1"><capabilities><expectMultipleCreativeRenditions /><requiresRendererManifest /><supportNullCreative /><supportsAdUnitInMultipleSlots /><supportsFallbackAds /><supportsSlotCallback /><supportsSlotTemplate /></capabilities><visitor caller="android-5.13.0-r10462-1403240717" /><keyValues><keyValue key="_fw_did_android_id" value="837674178b70febad47f1354f573980b" /><keyValue key="_fw_dpr" value="2" /><keyValue key="cnn_android_app" value="2.1.3" /><keyValue key="cnn_android_device" value="Phone" /><keyValue key="cnn_android_os" value="4.3" /><keyValue key="ltlg" value="39.98,-75.15" /></keyValues><siteSection customId="cnn.com_mobile_apps_main_androidphone_topstories"><videoPlayer><videoAsset autoPlay="true"><adSlots compatibleDimensions="720,1184" defaultSlotProfile="cnn_android_v1" /></videoAsset><adSlots /></videoPlayer><adSlots><nonTemporalAdSlot acceptCompanion="false" adUnit="cnn_androidphone_interstitial_568x280" customId="interstitial-landscape-000" height="280" width="568" /><nonTemporalAdSlot acceptCompanion="false" adUnit="cnn_androidphone_interstitial_320x568" customId="interstitial-portrait-000" height="568" width="320" /></adSlots></siteSection></adRequest>
+            ...@3.JYGET /b/ss/twciandroidphonestandard/0/OIP-2.1/s95967920?AQB=1&ndh=1&t=3%2F7%2F2014%204%3A14%3A44&vid=e7a42be24f541e5d4ae4aa7772ca9aea6df22b34&ce=UTF-8&cc=USD&events=event5&pageName=Now&c1=WEATHER&c2=google&c3=Toronto%5EON%5ECAXX0504%5E%5ECA&c4=Dalvik%2F1.6.0%20(Linux%3B%20U%3B%20Android%204.3%3B%20Galaxy%20Nexus%20Build%2FJWR66Y)&c5=maguro&c6=ads_y&c7=Android&c8=Android-4.3&c9=Android-4.2.11&c10=en_US&c12=4%3A00PM&c13=Thu&c14=Weekday&c15=WEATHER&c16=WEATHER:TFNOW&c19=Now&c25=Portrait&s=720x1184&v6=WEATHER&v7=Android&v10=Now&c=24&AQE=1 HTTP/1.1
+            User-Agent: Dalvik/1.6.0 (Linux; U; Android 4.3; Galaxy Nexus Build/JWR66Y)
+            User-Agent: Mozilla/5.0 (Android 4.3; en-us; Galaxy Nexus Build/JWR66Y) FreeWheelAdManager/5.13.0-r10462-1403240717;com.cnn.mobile.android.phone/215
+            ....3.|.<?xml version='1.0' encoding='UTF-8' standalone='yes' ?><adRequest networkId="48804" profile="cnn_android_v1" version="1"><capabilities><expectMultipleCreativeRenditions /><requiresRendererManifest /><supportNullCreative /><supportsAdUnitInMultipleSlots /><supportsFallbackAds /><supportsSlotCallback /><supportsSlotTemplate /></capabilities><visitor caller="android-5.13.0-r10462-1403240717" /><keyValues><keyValue key="_fw_did_android_id" value="837674178b70febad47f1354f573980b" /><keyValue key="_fw_dpr" value="2" /><keyValue key="cnn_android_app" value="2.1.3" /><keyValue key="cnn_android_device" value="Phone" /><keyValue key="cnn_android_os" value="4.3" /><keyValue key="ltlg" value="39.98,-75.15" /></keyValues><siteSection customId="cnn.com_mobile_apps_main_androidphone_topstories"><videoPlayer><videoAsset autoPlay="true"><adSlots compatibleDimensions="720,1184" defaultSlotProfile="cnn_android_v1" /></videoAsset><adSlots /></videoPlayer><adSlots><nonTemporalAdSlot acceptCompanion="true" adUnit="300x250_spon" customId="nontemporal-slot-1-1" height="250" width="300" /></adSlots></siteSection></adRequest>
+            User-Agent: AndroidCvpPlayer(Linux; U; Android 4.3; en-us)
+            ...^3.b.aspenJson=%7B%22sessionId%22%3A%22b3a99285a7b364b0c07c687e007f1ab0b5c0e36d%7Ecvp%7Eandroid%7Ecnn%7E50%22%2C%22events%22%3A%5B%7B%22eventData%22%3A%7B%22enabled%22%3Atrue%2C%22batchModeAmount%22%3A45%2C%22configURL%22%3A%22http%3A%5C%2F%5C%2Fi.cdn.turner.com%5C%2Fxslo%5C%2Fcvp%5C%2Fconfig%5C%2Faspen%5C%2Fandroid%5C%2FaspenEventConfig_12.json%22%2C%22applicationName%22%3A%22cvp%22%2C%22messageIncludes%22%3A%22%5B%5D%22%2C%22batchMode%22%3A%22timer%22%2C%22timestamp%22%3A1404418560734%2C%22helloApi%22%3A%22%5C%2Fapi%5C%2Fhello.json%22%2C%22batchApi%22%3A%22%5C%2Fapi%5C%2FpostEvent%5C%2Fbatch.json%22%2C%22messageExcludes%22%3A%22%5BvideoMetadata%2C+aspenConfigDetails%5D%22%2C%22aspenFailureCount%22%3A12%2C%22anfcApi%22%3A%22http%3A%5C%2F%5C%2Fi.cdn.turner.com%5C%2Fxslo%5C%2Fcvp%5C%2Fconfig%5C%2Faspen%5C%2Fandroid%5C%2Farm.json%22%2C%22progressReportInterval%22%3A55%2C%22anfbApi%22%3A%22%5C%2Fapi%5C%2Fanfb.json%22%2C%22servicesUrl%22%3A%22http%3A%5C%2F%5C%2Faspen.turner.com%22%7D%2C%22eventType%22%3A%22aspenConfigDetails%22%7D%5D%7D
+            User-Agent: Mozilla/5.0 (Android 4.3; en-us; Galaxy Nexus Build/JWR66Y) FreeWheelAdManager/5.13.0-r10462-1403240717;com.cnn.mobile.android.phone/215
+            ....3..U<?xml version='1.0' encoding='UTF-8' standalone='yes' ?><adRequest networkId="48804" profile="cnn_android_v1" version="1"><capabilities><expectMultipleCreativeRenditions /><requiresRendererManifest /><supportNullCreative /><supportsAdUnitInMultipleSlots /><supportsFallbackAds /><supportsSlotCallback /><supportsSlotTemplate /></capabilities><visitor caller="android-5.13.0-r10462-1403240717" /><keyValues><keyValue key="_fw_did_android_id" value="837674178b70febad47f1354f573980b" /><keyValue key="_fw_dpr" value="2" /><keyValue key="cnn_android_app" value="2.1.3" /><keyValue key="cnn_android_device" value="Phone" /><keyValue key="cnn_android_os" value="4.3" /><keyValue key="ltlg" value="39.98,-75.15" /></keyValues><siteSection customId="cnn.com_mobile_apps_main_androidphone_topstories"><videoPlayer><videoAsset autoPlay="true"><adSlots compatibleDimensions="720,1184" defaultSlotProfile="cnn_android_v1" /></videoAsset><adSlots /></videoPlayer><adSlots><nonTemporalAdSlot acceptCompanion="true" adUnit="300x250_spon" customId="nontemporal-slot-1-1" height="250" width="300" /></adSlots></siteSection></adRequest>
+            User-Agent: Mozilla/5.0 (Android 4.3; en-us; Galaxy Nexus Build/JWR66Y) FreeWheelAdManager/5.13.0-r10462-1403240717;com.cnn.mobile.android.phone/215
+            ....3..t<?xml version='1.0' encoding='UTF-8' standalone='yes' ?><adRequest networkId="48804" profile="cnn_android_v1" version="1"><capabilities><expectMultipleCreativeRenditions /><requiresRendererManifest /><supportNullCreative /><supportsAdUnitInMultipleSlots /><supportsFallbackAds /><supportsSlotCallback /><supportsSlotTemplate /></capabilities><visitor caller="android-5.13.0-r10462-1403240717" /><keyValues><keyValue key="_fw_did_android_id" value="837674178b70febad47f1354f573980b" /><keyValue key="_fw_dpr" value="2" /><keyValue key="cnn_android_app" value="2.1.3" /><keyValue key="cnn_android_device" value="Phone" /><keyValue key="cnn_android_os" value="4.3" /><keyValue key="ltlg" value="39.98,-75.15" /></keyValues><siteSection customId="cnn.com_mobile_apps_main_androidphone_topstories"><videoPlayer><videoAsset autoPlay="true"><adSlots compatibleDimensions="720,1184" defaultSlotProfile="cnn_android_v1" /></videoAsset><adSlots /></videoPlayer><adSlots><nonTemporalAdSlot acceptCompanion="true" adUnit="300x250_spon" customId="nontemporal-slot-1-1" height="250" width="300" /></adSlots></siteSection></adRequest>
+            X-Requested-With: com.cnn.mobile.android.phone
+            User-Agent: Mozilla/5.0 (Linux; U; Android 4.3; en-us; Galaxy Nexus Build/JWR66Y) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Mobile Safari/534.30
+            User-Agent: Mozilla/5.0 (Android 4.3; en-us; Galaxy Nexus Build/JWR66Y) FreeWheelAdManager/5.13.0-r10462-1403240717;com.cnn.mobile.android.phone/215
+            User-Agent: Mozilla/5.0 (Android 4.3; en-us; Galaxy Nexus Build/JWR66Y) FreeWheelAdManager/5.13.0-r10462-1403240717;com.cnn.mobile.android.phone/215
+        The following IPs were visited:
+            IP: 23.72.224.110
+            IP: 192.168.43.1
+            IP: 74.125.201.188
+            IP: 54.241.32.21
+            IP: 63.140.35.160
+            IP: 157.166.249.11
+            IP: 184.51.113.154
+            IP: 173.194.46.99
+            IP: 184.51.112.115
+            IP: 157.166.224.95
+            IP: 66.235.142.20
+            IP: 199.233.57.10
+            IP: 173.194.46.92
+            IP: 74.125.225.64
+            IP: 66.235.142.24
+            IP: 74.125.225.153
+            IP: 74.125.225.17
+            IP: 66.235.141.145
+            IP: 74.125.201.95
+            IP: 96.8.80.164
+            IP: 184.51.112.64
+            IP: 157.166.238.74
+            IP: 157.166.249.243
+            IP: 66.235.134.217
+            IP: 74.125.225.144
+            IP: 157.166.239.216
+            IP: 75.98.70.37
+            IP: 54.86.217.0
+            IP: 66.235.138.19
+            IP: 38.71.2.31
+            IP: 74.125.225.139
+            IP: 74.125.225.44
+            IP: 173.194.46.74
+            IP: 74.125.225.11
+            IP: 74.125.225.56
+            IP: 74.125.225.4
+            IP: 173.194.121.43
+            IP: 74.125.225.108
+            IP: 74.125.228.76
+            IP: 173.194.46.95
+            IP: 74.125.225.38
+            IP: 74.125.70.115
+            IP: 74.125.228.9
+            IP: 74.125.70.95
+            IP: 74.125.70.84
+            IP: 74.125.228.30
+            IP: 74.125.136.94
+            IP: 69.58.188.49
+            IP: 74.217.66.140
+            IP: 184.51.112.66

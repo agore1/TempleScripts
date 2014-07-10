@@ -1,0 +1,43 @@
+Device1: MAC=a0:0b:ba:e7:f5:d9 IP Address= 192.168.1.100 Packets Sent= 304
+        User Agents= [u'eBayAndroid/2.6.1.2']
+        The following keywords were found: 
+            imei:
+            mac:
+            android:
+            User-Agent: eBayAndroid/2.6.1.2
+            User-Agent: eBayAndroid/2.6.1.2
+            User-Agent: eBayAndroid/2.6.1.2
+            User-Agent: eBayAndroid/2.6.1.2
+            User-Agent: eBayAndroid/2.6.1.2
+            User-Agent: eBayAndroid/2.6.1.2
+            User-Agent: eBayAndroid/2.6.1.2
+            User-Agent: eBayAndroid/2.6.1.2
+            User-Agent: eBayAndroid/2.6.1.2
+            User-Agent: eBayAndroid/2.6.1.2
+            User-Agent: eBayAndroid/2.6.1.2
+            User-Agent: eBayAndroid/2.6.1.2
+            User-Agent: eBayAndroid/2.6.1.2
+            User-Agent: eBayAndroid/2.6.1.2
+            User-Agent: eBayAndroid/2.6.1.2
+            User-Agent: eBayAndroid/2.6.1.2
+            User-Agent: eBayAndroid/2.6.1.2
+            User-Agent: eBayAndroid/2.6.1.2
+            User-Agent: eBayAndroid/2.6.1.2
+            User-Agent: eBayAndroid/2.6.1.2
+            User-Agent: eBayAndroid/2.6.1.2
+            User-Agent: eBayAndroid/2.6.1.2
+        The following IPs were visited:
+            IP: 192.168.1.1
+            IP: 66.211.178.203
+            IP: 66.211.179.184
+            IP: 23.220.47.158
+            IP: 4.35.21.145
+            IP: 173.194.43.24
+            IP: 66.211.181.37
+            IP: 66.211.179.149
+            IP: 66.135.211.140
+            IP: 66.198.8.74
+            IP: 66.198.8.25
+            IP: 66.198.8.35
+            IP: 66.211.185.112
+            IP: 64.233.171.95

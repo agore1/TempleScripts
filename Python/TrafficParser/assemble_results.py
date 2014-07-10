@@ -1,20 +1,22 @@
 __author__ = 'austin'
 
 import json
+import os
+import sys
 from Device import Device
 from keyword_search import keyword_search
 
 
-def assemble_results(filename):
+def assemble_results(filename, pathname):
 
     #Read individual files back into dicts
-    with open("Results/macs_and_ips_results.txt", "rb") as macs_ips:
+    with open(pathname + "/Results/macs_and_ips_results.txt", "rb") as macs_ips:
         macs_ips_dict = json.load(macs_ips)
-    with open("Results/useragents_results.txt", "rb") as useragents:
+    with open(pathname + "/Results/useragents_results.txt", "rb") as useragents:
         macs_useragents_dict = json.load(useragents)
-    with open("Results/mac_frequency_results.txt", "rb") as macs_frequency:
+    with open(pathname + "/Results/mac_frequency_results.txt", "rb") as macs_frequency:
         macs_frequency_dict = json.load(macs_frequency)
-    with open("Results/visited_ips_results.txt", "rb") as visited_ips:
+    with open(pathname + "/Results/visited_ips_results.txt", "rb") as visited_ips:
         visited_ips_dict = json.load(visited_ips)
 
     devices_dict = {}
@@ -30,8 +32,9 @@ def assemble_results(filename):
 
     # Match the MAC addresses between the existing device dict and new useragents dict
     for mac in macs_useragents_dict:
-       if mac in devices_dict:
-           devices_dict[mac].user_agents = macs_useragents_dict[mac]
+        if mac in devices_dict:
+            # devices_dict[mac].user_agents = macs_useragents_dict[mac]
+            devices_dict[mac].add_user_agents(macs_useragents_dict[mac])
 
     # Add packet sent count to devices, matched on MAC addresses
     for mac in macs_frequency_dict:
@@ -53,7 +56,7 @@ def assemble_results(filename):
     # Extract just the "3apps_zedge" part of "var/tmp/3apps_zedge.pcap"
     result_filename = filename.split("/")[-1]
     result_filename = result_filename.split(".")[0]
-    result_filename = "Results/analysis_" + result_filename + ".txt"
+    result_filename = pathname + "/Results/analysis_" + result_filename + ".txt"
 
     f = open(result_filename, 'wb')
     f.write(result_string)

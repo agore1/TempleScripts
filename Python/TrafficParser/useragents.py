@@ -2,16 +2,16 @@ __author__ = 'austin'
 
 # This script lists all the user agents that have been associated with each ip address.
 import pyshark
-import csv
-from pprint import pprint
 import json
+from ua_parser import user_agent_parser
 
-def useragents(filename):
-    capture = pyshark.FileCapture(filename, display_filter='tcp or udp')
+def useragents(filename, pathname):
+    capture = pyshark.FileCapture(filename, display_filter='http')
 
     errors = 0
     http_packets = 0
-    src_dict = {}
+    src_dict = {}  # A dict of mac address : list pairs. Lists contain all user-agent strings for a mac
+    ua_result_dict = {}  # A dict of mac address: list pairs. List items are the parsed user-agent dicts.
 
     for packet in capture:
         #If there are 5 or more layers, then we know we have a packet with an IP layer for getting ip addresses
@@ -33,9 +33,19 @@ def useragents(filename):
                 src_dict[mac_address] = []
                 src_dict[mac_address].append(user_agent)
 
+    # Parse each UA string into a dict of different attributes
+    for mac_address in src_dict:
+        ua_string_list = src_dict[mac_address]
+        for ua_string in ua_string_list:
+            ua_dict = user_agent_parser.Parse(ua_string)
+            if mac_address not in ua_result_dict:
+                ua_result_dict[mac_address] = []
+            ua_result_dict[mac_address].append(ua_dict)
+
+
     print "The number of errors was: ", errors, " and the number of http packets was: ", http_packets
-    # pprint(src_dict)
+    # pprint(ua_results_dict)
 
 
-    with open("Results/useragents_results.txt", "wb") as result_file:
-        json.dump(src_dict, result_file)
+    with open(pathname + "/Results/useragents_results.txt", "wb") as result_file:
+        json.dump(ua_result_dict, result_file)

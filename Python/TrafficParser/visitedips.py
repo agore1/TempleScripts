@@ -6,7 +6,7 @@ import csv
 import json
 
 
-def visited_ips(filename):
+def visited_ips(filename, pathname):
     capture = pyshark.FileCapture(filename, display_filter='tcp or udp')
 
     errors = 0
@@ -44,5 +44,5 @@ def visited_ips(filename):
     #     writer.writerow([key, value])
     # result_file.close()
 
-    with open("Results/visited_ips_results.txt", "wb") as result_file:
+    with open(pathname + "/Results/visited_ips_results.txt", "wb") as result_file:
         json.dump(src_dict, result_file)

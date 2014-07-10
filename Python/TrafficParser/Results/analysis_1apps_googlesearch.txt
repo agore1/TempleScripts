@@ -1,0 +1,30 @@
+Device1: MAC=a0:0b:ba:e7:f5:d9 IP Address= 192.168.1.100 Packets Sent= 1300
+        User Agents= [u'Mozilla/5.0 (Linux; U; Android 4.3; en-us; Galaxy Nexus Build/JWR66Y) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Mobile Safari/534.30 GSA/3.4.16.1149292.arm']
+        The following keywords were found: 
+            imei:
+            mac:
+            android:
+            User-Agent: Mozilla/5.0 (Linux; U; Android 4.3; en-us; Galaxy Nexus Build/JWR66Y) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Mobile Safari/534.30 GSA/3.4.16.1149292.arm
+        The following IPs were visited:
+            IP: 74.125.226.24
+            IP: 64.233.171.95
+            IP: 192.168.1.1
+            IP: 74.125.228.112
+            IP: 74.125.226.0
+            IP: 64.233.171.84
+            IP: 74.125.226.15
+            IP: 74.125.226.12
+            IP: 239.255.255.250
+            IP: 74.125.226.10
+            IP: 74.125.226.8
+            IP: 74.125.226.3
+            IP: 74.125.226.11
+            IP: 74.125.226.7
+            IP: 74.125.228.114
+            IP: 74.125.226.26
+            IP: 74.125.226.1
+            IP: 74.125.226.31
+            IP: 184.29.105.242
+            IP: 157.166.249.11
+            IP: 157.166.248.11
+            IP: 184.29.105.232

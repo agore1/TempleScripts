@@ -6,7 +6,7 @@ import operator
 import csv
 import json
 
-def mac_frequency(filename):
+def mac_frequency(filename, pathname):
     capture = pyshark.FileCapture(filename, display_filter='tcp or udp')
 
     errors = 0
@@ -36,5 +36,5 @@ def mac_frequency(filename):
 
     # sorted_src_list = sorted(src_dict.iteritems(), key=operator.itemgetter(1), reverse=True)
 
-    with open("Results/mac_frequency_results.txt", "wb") as result_file:
+    with open(pathname + "/Results/mac_frequency_results.txt", "wb") as result_file:
         json.dump(src_dict, result_file)

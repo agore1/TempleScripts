@@ -1,0 +1,77 @@
+Device1: MAC=a0:0b:ba:e7:f5:d9 IP Address= 192.168.43.243 Packets Sent= 2405
+        User Agents= [u'Dalvik/1.6.0 (Linux; U; Android 4.3; Galaxy Nexus Build/JWR66Y)', u'Mozilla/5.0 (Linux; U; Android 4.3; en-US; Galaxy Nexus Build/JWR66Y) CNN/2.1.3', u'AndroidCvpPlayer(Linux; U; Android 4.3; en-us)', u'Mozilla/5.0 (Linux; U; Android 4.3; en-us; Galaxy Nexus Build/JWR66Y) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Mobile Safari/534.30', u'Mozilla/5.0 (Linux; Android 4.3; Galaxy Nexus Build/JWR66Y) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/35.0.1916.141 Mobile Safari/537.36', u'unused/0 (maguro JWR66Y); gzip']
+        The following keywords were found: 
+            imei:
+            mac:
+            .
+            .83...{"AppInfo":{"BundleId":"com.rovio.angrybirds","PublisherId":"occh7YQwjUGpHV6o8O_ijg","Version":"4.1.0","VersionInt":4100},"DeviceInfo":{"AndroidId":"ZrMqse/nqEbberOzr/BuR4GNx+njl3QXQ4K5/mCYrOI=","Carrier":"","ClientDateTime":"2014-07-03T20:01:13Z","WebUserAgent":"Mozilla/5.0 (Linux; U; Android 4.3; en-us; Galaxy Nexus Build/JWR66Y) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Mobile Safari/534.30","ConnectionTypeDetailed":"","Density":"XHigh","Device":"Galaxy Nexus","DeviceFamily":"google","DeviceId":"aafb414bd0bfc418d65bccda1beba72ad8dad9ca","IpAddress":"fe80::a00b:baff:fee7:f5d9%p2p0","MAC":"b256822a20a1a6795d2f230832eb6b55cfceeeac","MCC":"310","MNC":"410","Platform":"Android","PlatformVersion":"4.3","ScreenResolution":"1196x720","ConnectionType":2},"SDKInfo":{"BuildID":"323","MraidAPI":"2.0","OrmmaAPI":"1.1","RewardsAPI":"2","Version":"1.35.0.50370"},"V":"1"}
+            .
+            ..3...{"data":{"Id":"c5a88066","acceptLanguage":"en","adPool":0,"androidId":"ZrMqse/nqEbberOzr/BuR4GNx+njl3QXQ4K5/mCYrOI=","bundleId":"com.rovio.angrybirds","ccs":"310410;;GSM","cct":2,"cctDetailed":"","clientDateTime":"5,1601","crParms":"androidstore='com.android.vending',customer='googleplay',version='4.1.0'","debugFlags":0,"deviceId":"aafb414bd0bfc418d65bccda1beba72ad8dad9ca","encDevId":"B2ulNrkd5wLzgjTmNKGgYcG2aIo6nF+HP/FtVYl4jJc=","encMAC":"VoLUWl1FoadYbEhwHn9yTWnROLrRXB5HzubrOEG+HdA=","ipAddress":"","mac":"b256822a20a1a6795d2f230832eb6b55cfceeeac","noTrack":0,"placement":"","pubTargeting":"androidstore='com.android.vending',customer='googleplay',version='4.1.0'","publisher":"occh7YQwjUGpHV6o8O_ijg","rvCR":"","type":"iq","userAgentInfo":{"Build":"1.35.0.50370","BuildID":"323","Carrier":"","Density":"XHigh","Device":"Galaxy Nexus","DeviceFamily":"google","MCC":"310","MNC":"410","Platform":"Android","PlatformVersion":"4.3","ScreenResolution":"1196x720","adapters":[],"androidDensityID":"320","apiVersions":{"mraid":"2.0","ormma":"1.1","rewards":"2"},"appVersion":"4.1.0","webUserAgent":"Mozilla/5.0 (Linux; U; Android 4.3; en-us; Galaxy Nexus Build/JWR66Y) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Mobile Safari/534.30","v":"1","appVersionInt":4100},"zone":"0757149479072204834"}}
+            android:
+            ........E..U.#..@..u.........D.C.Az&.....dF.....................................................................................................................................................................................................................................c.Sc5..=........2...+.9...<.dhcpcd-5.5.6..android-1cd3921dab8e8c77	.!....3:;.
+            16:00:36.627972 CF +QoS IP 192.168.43.243.34442 > 192.168.43.1.53: 29087+ A? android.clients.google.com. (44)
+            ........E..H..@.@.p...+...+....5.4{.q............android.clients.google.com.....
+            User-Agent: Dalvik/1.6.0 (Linux; U; Android 4.3; Galaxy Nexus Build/JWR66Y)
+            ....3...GET /b/ss/cnn-adbp-apps-enh-cnn/0/JAVA-3.2.5-AN/s8859180?AQB=1&ndh=1&ts=1404417650&ce=UTF-8&vid=58609e5c1dd24c4d9a08d66e06ebb2a7&pev2=ADMS%20BP%20Event&t=3%2F6%2F2014%2016%3A0%3A50%204%20240&c.&a.&DaysSinceFirstUse=2&HourOfDay=16&Resolution=1196x720&DaysSinceLastUse=0&DaysSinceLastUpgrade=1&AppID=CNN%282.1.3%29&LaunchesSinceUpgrade=13&OSVersion=Android%204.3&Launches=14&DeviceName=Galaxy%20Nexus&DayOfWeek=5&CrashEvent=CrashEvent&OSEnvironment=Android%204.3&LaunchEvent=LaunchEvent&.a&.c&pe=lnk_o&pageName=CNN%282.1.3%29%20Launch&AQE=1 HTTP/1.1
+            User-Agent: Mozilla/5.0 (Linux; U; Android 4.3; en-US; Galaxy Nexus Build/JWR66Y) CNN/2.1.3
+            ....3...GET /partners/android/config/3.02/config-phone.json HTTP/1.1
+            User-Agent: AndroidCvpPlayer(Linux; U; Android 4.3; en-us)
+            ....3...GET /partners/android/config/3.02/config-phone.json HTTP/1.1
+            ...$3..eGET /xslo/cvp/config/aspen/android/aspenConfig_12.xml HTTP/1.1
+            User-Agent: AndroidCvpPlayer(Linux; U; Android 4.3; en-us)
+            ...k3...GET /xslo/cvp/config/aspen/android/aspenEventConfig_12.json HTTP/1.1
+            User-Agent: AndroidCvpPlayer(Linux; U; Android 4.3; en-us)
+            User-Agent: Mozilla/5.0 (Linux; U; Android 4.3; en-us; Galaxy Nexus Build/JWR66Y) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Mobile Safari/534.30
+            User-Agent: AndroidCvpPlayer(Linux; U; Android 4.3; en-us)
+            aspenJson=%7B%22propertyName%22%3A%22CNN%22%2C%22applicationVersion%22%3A%221.0.6.1%22%2C%22protocol%22%3A%221.0%22%2C%22platformName%22%3A%22android%22%2C%22applicationName%22%3A%22cvp%22%7D
+            User-Agent: Mozilla/5.0 (Linux; U; Android 4.3; en-us; Galaxy Nexus Build/JWR66Y) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Mobile Safari/534.30
+            .
+            .83...{"AppInfo":{"BundleId":"com.rovio.angrybirds","PublisherId":"occh7YQwjUGpHV6o8O_ijg","Version":"4.1.0","VersionInt":4100},"DeviceInfo":{"AndroidId":"ZrMqse/nqEbberOzr/BuR4GNx+njl3QXQ4K5/mCYrOI=","Carrier":"","ClientDateTime":"2014-07-03T20:01:13Z","WebUserAgent":"Mozilla/5.0 (Linux; U; Android 4.3; en-us; Galaxy Nexus Build/JWR66Y) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Mobile Safari/534.30","ConnectionTypeDetailed":"","Density":"XHigh","Device":"Galaxy Nexus","DeviceFamily":"google","DeviceId":"aafb414bd0bfc418d65bccda1beba72ad8dad9ca","IpAddress":"fe80::a00b:baff:fee7:f5d9%p2p0","MAC":"b256822a20a1a6795d2f230832eb6b55cfceeeac","MCC":"310","MNC":"410","Platform":"Android","PlatformVersion":"4.3","ScreenResolution":"1196x720","ConnectionType":2},"SDKInfo":{"BuildID":"323","MraidAPI":"2.0","OrmmaAPI":"1.1","RewardsAPI":"2","Version":"1.35.0.50370"},"V":"1"}
+            User-Agent: Mozilla/5.0 (Linux; U; Android 4.3; en-us; Galaxy Nexus Build/JWR66Y) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Mobile Safari/534.30
+            .
+            .83...deviceId=aafb414bd0bfc418d65bccda1beba72ad8dad9ca&bundleId=com.rovio.angrybirds&version=1.0&distribution=true&host=sdk&token=c24cd27769252e19ade7e549a1821c7cfad86c02&encDevId=B2ulNrkd5wLzgjTmNKGgYcG2aIo6nF%2BHP%2FFtVYl4jJc%3D&encAndroidId=ZrMqse%2FnqEbberOzr%2FBuR4GNx%2Bnjl3QXQ4K5%2FmCYrOI%3D
+            User-Agent: Dalvik/1.6.0 (Linux; U; Android 4.3; Galaxy Nexus Build/JWR66Y)
+            User-Agent: Mozilla/5.0 (Linux; U; Android 4.3; en-us; Galaxy Nexus Build/JWR66Y) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Mobile Safari/534.30
+            .
+            ..3...{"data":{"Id":"c5a88066","acceptLanguage":"en","adPool":0,"androidId":"ZrMqse/nqEbberOzr/BuR4GNx+njl3QXQ4K5/mCYrOI=","bundleId":"com.rovio.angrybirds","ccs":"310410;;GSM","cct":2,"cctDetailed":"","clientDateTime":"5,1601","crParms":"androidstore='com.android.vending',customer='googleplay',version='4.1.0'","debugFlags":0,"deviceId":"aafb414bd0bfc418d65bccda1beba72ad8dad9ca","encDevId":"B2ulNrkd5wLzgjTmNKGgYcG2aIo6nF+HP/FtVYl4jJc=","encMAC":"VoLUWl1FoadYbEhwHn9yTWnROLrRXB5HzubrOEG+HdA=","ipAddress":"","mac":"b256822a20a1a6795d2f230832eb6b55cfceeeac","noTrack":0,"placement":"","pubTargeting":"androidstore='com.android.vending',customer='googleplay',version='4.1.0'","publisher":"occh7YQwjUGpHV6o8O_ijg","rvCR":"","type":"iq","userAgentInfo":{"Build":"1.35.0.50370","BuildID":"323","Carrier":"","Density":"XHigh","Device":"Galaxy Nexus","DeviceFamily":"google","MCC":"310","MNC":"410","Platform":"Android","PlatformVersion":"4.3","ScreenResolution":"1196x720","adapters":[],"androidDensityID":"320","apiVersions":{"mraid":"2.0","ormma":"1.1","rewards":"2"},"appVersion":"4.1.0","webUserAgent":"Mozilla/5.0 (Linux; U; Android 4.3; en-us; Galaxy Nexus Build/JWR66Y) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Mobile Safari/534.30","v":"1","appVersionInt":4100},"zone":"0757149479072204834"}}
+            User-Agent: Mozilla/5.0 (Linux; U; Android 4.3; en-us; Galaxy Nexus Build/JWR66Y) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Mobile Safari/534.30
+            User-Agent: Mozilla/5.0 (Linux; U; Android 4.3; en-us; Galaxy Nexus Build/JWR66Y) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Mobile Safari/534.30
+            .
+            .r3...{"data":{"appVersion":"4.1.0","cookie":[{"name":"vw","value":"ref=1407032001&ees=,eL,default,MqN"},{"name":"lc","value":"186173"},{"name":"iuocch7YQwjUGpHV6o8O_ijg","value":"x"},{"name":"fcocch7YQwjUGpHV6o8O_ijg","value":"ref=1407032001&cr186173="}],"encData":"e4Cy9rkqqEYjJQwKSAopoaALtc70CH/HeNWGUrzlxq6MJ+b31WqTRZJj+oxMc1KzhSVip/RsdiMSdTqRYqZ9WKPXk4Mm7fK7FiOizl5vFl8nk+t7frUk5Vodk8el+ke+oyuLqctRQMsdm3+HUH1PgsC7VbxUx0XSvVFC1fTJ0d8=","failedCR":"","placement":"","publisher":"occh7YQwjUGpHV6o8O_ijg","timeTrackData":[{"request":"server","ms":"1923"},{"request":"burstlyImage","ms":"546"}],"type":"tq","userAgentInfo":{"Build":"1.35.0.50370","BuildID":"323","Carrier":"","Density":"XHigh","Device":"Galaxy Nexus","DeviceFamily":"google","MCC":"310","MNC":"410","Platform":"Android","PlatformVersion":"4.3","ScreenResolution":"1196x720","adapters":[{"net":"burstlyImage","sv":"1.35.0.50370","av":"1.0"}],"androidDensityID":"320","apiVersions":{"mraid":"2.0","ormma":"1.1","rewards":"2"},"appVersion":"4.1.0","webUserAgent":"Mozilla/5.0 (Linux; U; Android 4.3; en-us; Galaxy Nexus Build/JWR66Y) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Mobile Safari/534.30","v":"1","appVersionInt":4100},"zone":"0757149479072204834"}}
+            User-Agent: Mozilla/5.0 (Linux; U; Android 4.3; en-us; Galaxy Nexus Build/JWR66Y) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Mobile Safari/534.30
+            User-Agent: Mozilla/5.0 (Linux; Android 4.3; Galaxy Nexus Build/JWR66Y) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/35.0.1916.141 Mobile Safari/537.36
+            .
+            ..3...GET /android/market_images/badges/topdev_list.png HTTP/1.1
+            User-Agent: Mozilla/5.0 (Linux; U; Android 4.3; en-us; Galaxy Nexus Build/JWR66Y) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Mobile Safari/534.30
+        The following IPs were visited:
+            IP: 192.168.43.1
+            IP: 74.125.201.188
+            IP: 216.52.203.23
+            IP: 74.125.225.128
+            IP: 54.84.57.252
+            IP: 74.125.225.38
+            IP: 54.230.204.43
+            IP: 66.235.141.17
+            IP: 157.166.238.17
+            IP: 184.51.112.66
+            IP: 23.72.224.126
+            IP: 54.230.204.141
+            IP: 157.166.238.74
+            IP: 54.200.134.186
+            IP: 54.200.116.100
+            IP: 54.230.205.30
+            IP: 74.125.193.95
+            IP: 54.241.162.195
+            IP: 173.194.46.76
+            IP: 74.125.225.42
+            IP: 173.194.46.127
+            IP: 74.125.225.139
+            IP: 173.194.46.65
+            IP: 74.125.225.51
+            IP: 74.125.225.43
+            IP: 173.194.46.87
+            IP: 173.194.46.67
+            IP: 74.125.207.95
+            IP: 74.125.201.84
+            IP: 173.194.46.119
+            IP: 74.125.228.236

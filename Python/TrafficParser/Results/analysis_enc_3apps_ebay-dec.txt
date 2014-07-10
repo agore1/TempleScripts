@@ -1,0 +1,40 @@
+Device1: MAC=a0:0b:ba:e7:f5:d9 IP Address= 192.168.43.243 Packets Sent= 264
+        User Agents= [u'eBayAndroid/2.6.1.2', u'Dalvik/1.6.0 (Linux; U; Android 4.3; Galaxy Nexus Build/JWR66Y)']
+        The following keywords were found: 
+            imei:
+            mac:
+            android:
+            ........E..U>...@.;..........D.C.A........:.....................................................................................................................................................................................................................................c.Sc5..=........2...+.9...<.dhcpcd-5.5.6..android-1cd3921dab8e8c77	.!....3:;.
+            ..7.3.LnGET /0/RTMS/Image/US_eBayMobile_Android_MoneyBackGuarantee_30Jan2014_183x183.png HTTP/1.1
+            User-Agent: eBayAndroid/2.6.1.2
+            User-Agent: eBayAndroid/2.6.1.2
+            User-Agent: eBayAndroid/2.6.1.2
+            User-Agent: eBayAndroid/2.6.1.2
+            User-Agent: eBayAndroid/2.6.1.2
+            User-Agent: eBayAndroid/2.6.1.2
+            User-Agent: eBayAndroid/2.6.1.2
+            User-Agent: eBayAndroid/2.6.1.2
+            User-Agent: eBayAndroid/2.6.1.2
+            User-Agent: Dalvik/1.6.0 (Linux; U; Android 4.3; Galaxy Nexus Build/JWR66Y)
+            User-Agent: eBayAndroid/2.6.1.2
+            User-Agent: eBayAndroid/2.6.1.2
+            User-Agent: eBayAndroid/2.6.1.2
+            User-Agent: eBayAndroid/2.6.1.2
+        The following IPs were visited:
+            IP: 54.230.206.46
+            IP: 192.168.43.1
+            IP: 74.125.201.188
+            IP: 74.125.142.188
+            IP: 54.230.206.77
+            IP: 66.211.185.16
+            IP: 66.135.211.96
+            IP: 184.51.113.153
+            IP: 63.245.215.95
+            IP: 23.7.177.212
+            IP: 184.51.112.209
+            IP: 204.95.26.137
+            IP: 74.125.225.9
+            IP: 66.211.179.149
+            IP: 66.211.181.37
+            IP: 66.211.179.184
+            IP: 66.211.179.150

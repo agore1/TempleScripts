@@ -1,0 +1,16 @@
+Device1: MAC=a0:0b:ba:e7:f5:d9 IP Address= 192.168.1.100 Packets Sent= 1473
+
+        The following keywords were found: 
+            imei:
+            mac:
+            android:
+        The following IPs were visited:
+            IP: 192.168.1.1
+            IP: 74.125.226.2
+            IP: 74.125.226.1
+            IP: 64.233.171.192
+            IP: 74.125.226.10
+            IP: 74.125.226.11
+            IP: 157.166.239.177
+            IP: 157.166.238.48
+            IP: 74.125.226.12

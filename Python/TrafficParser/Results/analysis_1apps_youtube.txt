@@ -1,0 +1,42 @@
+Device1: MAC=a0:0b:ba:e7:f5:d9 IP Address= 192.168.1.100 Packets Sent= 6786
+        User Agents= [u'Dalvik/1.6.0 (Linux; U; Android 4.3; Galaxy Nexus Build/JWR66Y)', u'com.google.android.youtube/5.7.38(Linux; U; Android 4.3; en_US; Galaxy Nexus Build/JWR66Y) gzip']
+        The following keywords were found: 
+            imei:
+            mac:
+            android:
+            .....r..GET /pagead/conversion/1001680686/?label=4dahCKKczAYQrt7R3QM&value=&muid=g3Z0F4tw_rrUfxNU9XOYCw&bundleid=com.google.android.youtube&appversion=5.7.38&osversion=4.3&sdkversion=ct-sdk-a-v1.1.0&remarketing_only=1&timestamp=1404159887&data=screen_name%3D%3CAndroid_YT_Open_App%3E HTTP/1.1
+            User-Agent: Dalvik/1.6.0 (Linux; U; Android 4.3; Galaxy Nexus Build/JWR66Y)
+            16:15:27.724422 11539812390us tsft 2462 MHz 11g -47dB signal antenna 0 65.0 Mb/s MCS 7 20 MHz lon GI CF +QoS IP 192.168.1.100.40499 > 192.168.1.1.53: 58958+ A? android.clients.google.com. (44)
+            ........E..H..@.@......d.....3.5.4D..N...........android.clients.google.com......bM.
+            User-Agent: com.google.android.youtube/5.7.38(Linux; U; Android 4.3; en_US; Galaxy Nexus Build/JWR66Y) gzip
+            User-Agent: com.google.android.youtube/5.7.38(Linux; U; Android 4.3; en_US; Galaxy Nexus Build/JWR66Y) gzip
+            User-Agent: com.google.android.youtube/5.7.38(Linux; U; Android 4.3; en_US; Galaxy Nexus Build/JWR66Y) gzip
+            User-Agent: com.google.android.youtube/5.7.38(Linux; Uus.{
+            .....rW.; Android 4.3; en_US; Galaxy Nexus Build/JWR66Y) gzip
+            User-Agent: com.google.android.youtube/5.7.38(Linux; U; Android 4.3; en_US; Galaxy Nexus Build/JWR66Y) gzip
+            User-Agent: com.google.android.youtube/5.7.38(Linux; U; Android 4.3; en_US; Galaxy Nexus Build/JWR66Y) gzip
+            User-Agent: com.google.android.youtube/5.7.38(Linux; U; Android 4.3; en_US; Galaxy Nexus Build/JWR66Y) gzip
+            User-Agent: com.google.android.youtube/5.7.38(Linux; U; Android 4.3; en_US; Galaxy Nexus Build/JWR66Y) gzip
+        The following IPs were visited:
+            IP: 74.125.226.26
+            IP: 74.125.226.14
+            IP: 192.168.1.1
+            IP: 74.125.226.7
+            IP: 74.125.226.5
+            IP: 239.255.255.250
+            IP: 173.194.127.15
+            IP: 74.125.226.0
+            IP: 64.233.171.95
+            IP: 74.125.228.114
+            IP: 74.125.226.9
+            IP: 74.125.226.1
+            IP: 74.125.226.25
+            IP: 74.125.226.12
+            IP: 74.125.226.11
+            IP: 74.125.226.13
+            IP: 4.35.21.141
+            IP: 74.125.226.2
+            IP: 4.35.21.140
+            IP: 74.125.228.98
+            IP: 184.29.105.232
+            IP: 74.125.226.27

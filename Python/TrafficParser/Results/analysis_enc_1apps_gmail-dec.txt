@@ -1,0 +1,30 @@
+Device1: MAC=a0:0b:ba:e7:f5:d9 IP Address= 192.168.43.243 Packets Sent= 456
+        User Agents= [u'Mozilla/5.0 (Linux; U; Android 4.3; en-US; Galaxy Nexus Build/JWR66Y) CNN/2.1.3', u'AndroidCvpPlayer(Linux; U; Android 4.3; en-us)']
+        The following keywords were found: 
+            imei:
+            mac:
+            android:
+            15:54:44.924627 CF +QoS IP 192.168.43.243.57487 > 192.168.43.1.53: 8179+ A? android.clients.google.com. (44)
+            ........E..HA.@.@. }..+...+....5.4s..............android.clients.google.com.....
+            ..D-3...GET /b/ss/cnn-adbp-apps-enh-cnn/0/JAVA-3.2.5-AN/s98067193?AQB=1&ndh=1&ts=1404417289&ce=UTF-8&vid=58609e5c1dd24c4d9a08d66e06ebb2a7&pev2=ADMS%20BP%20Event&t=3%2F6%2F2014%2015%3A54%3A49%204%20240&c.&a.&DaysSinceFirstUse=2&HourOfDay=15&Resolution=720x1184&DaysSinceLastUse=0&DaysSinceLastUpgrade=1&AppID=CNN%282.1.3%29&LaunchesSinceUpgrade=11&OSVersion=Android%204.3&Launches=12&DeviceName=Galaxy%20Nexus&DayOfWeek=5&CrashEvent=CrashEvent&OSEnvironment=Android%204.3&LaunchEvent=LaunchEvent&.a&.c&pe=lnk_o&pageName=CNN%282.1.3%29%20Launch&AQE=1 HTTP/1.1
+            User-Agent: Mozilla/5.0 (Linux; U; Android 4.3; en-US; Galaxy Nexus Build/JWR66Y) CNN/2.1.3
+            ..DA3..0GET /partners/android/config/3.02/config-phone.json HTTP/1.1
+            ..DB3..0GET /partners/android/config/3.02/config-phone.json HTTP/1.1
+            User-Agent: AndroidCvpPlayer(Linux; U; Android 4.3; en-us)
+            ..D.3...GET /xslo/cvp/config/aspen/android/aspenConfig_12.xml HTTP/1.1
+            User-Agent: AndroidCvpPlayer(Linux; U; Android 4.3; en-us)
+            ..D.3..VGET /xslo/cvp/config/aspen/android/aspenEventConfig_12.json HTTP/1.1
+            User-Agent: AndroidCvpPlayer(Linux; U; Android 4.3; en-us)
+            User-Agent: AndroidCvpPlayer(Linux; U; Android 4.3; en-us)
+            aspenJson=%7B%22propertyName%22%3A%22CNN%22%2C%22applicationVersion%22%3A%221.0.6.1%22%2C%22protocol%22%3A%221.0%22%2C%22platformName%22%3A%22android%22%2C%22applicationName%22%3A%22cvp%22%7D
+        The following IPs were visited:
+            IP: 74.125.201.188
+            IP: 192.168.43.1
+            IP: 173.194.46.68
+            IP: 66.235.141.16
+            IP: 157.166.239.177
+            IP: 184.51.113.154
+            IP: 184.51.112.58
+            IP: 157.166.238.74
+            IP: 74.125.225.131
+            IP: 74.125.225.147

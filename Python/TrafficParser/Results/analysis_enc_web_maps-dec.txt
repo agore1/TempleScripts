@@ -1,0 +1,29 @@
+Device1: MAC=a0:0b:ba:e7:f5:d9 IP Address= 192.168.43.243 Packets Sent= 2044
+        User Agents= [u'Mozilla/5.0 (Linux; Android 4.3; Galaxy Nexus Build/JWR66Y) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/35.0.1916.141 Mobile Safari/537.36']
+        The following keywords were found: 
+            imei:
+            mac:
+            android:
+            ........E..U....@............D.C.A..............................................................................................................................................................................................................................................c.Sc5..=........2...+.9...<.dhcpcd-5.5.6..android-1cd3921dab8e8c77	.!....3:;.
+            ....3...GET /partners/android/config/3.02/config-phone.json HTTP/1.1
+            User-Agent: Mozilla/5.0 (Linux; Android 4.3; Galaxy Nexus Build/JWR66Y) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/35.0.1916.141 Mobile Safari/537.36
+        The following IPs were visited:
+            IP: 192.168.43.1
+            IP: 157.166.249.11
+            IP: 74.125.201.188
+            IP: 74.125.225.51
+            IP: 173.194.46.105
+            IP: 173.194.46.87
+            IP: 173.194.46.78
+            IP: 74.125.225.133
+            IP: 173.194.46.66
+            IP: 173.194.121.42
+            IP: 74.125.228.202
+            IP: 74.125.225.11
+            IP: 74.125.225.9
+            IP: 173.194.121.44
+            IP: 74.125.225.38
+            IP: 74.125.207.84
+            IP: 74.125.142.95
+            IP: 74.125.225.101
+            IP: 173.194.46.110
