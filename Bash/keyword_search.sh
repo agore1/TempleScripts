@@ -1,6 +1,6 @@
 #!/bin/bash
 
-#This script searches for a keyword passes as an argument
+#This script searches for a keyword passed as an argument. 
 
 FILENAME=$1
 KEYWORD=$2

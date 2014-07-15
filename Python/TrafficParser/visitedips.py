@@ -2,7 +2,6 @@ __author__ = 'austin'
 
 # This script lists all the destination IPs that are requested by each src IP
 import pyshark
-import csv
 import json
 
 
